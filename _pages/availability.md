@@ -16,7 +16,7 @@ calendar: true
 
 All prices in Euros and per week. July and August weekly rental Saturday-Saturday. Rental minimum 4 nights outside of July/August. Please see our [terms of rental](/terms/) for the fine print!
 
-See also [how to get there](/access).
+See also [how to get there](/access/).
 
 ## Availability
 
