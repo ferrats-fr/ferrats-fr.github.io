@@ -5,37 +5,37 @@ permalink: /region/
 type: info
 header_text: Cap Corsica
 gallery:
-  - url: region/0.jpg
+  - url: region/web/0.jpg
     image_path: region/th/0.jpg
-  - url: region/1.jpg
+  - url: region/web/1.jpg
     image_path: region/th/1.jpg
-  - url: region/2.jpg
+  - url: region/web/2.jpg
     image_path: region/th/2.jpg
-  - url: region/3.jpg
+  - url: region/web/3.jpg
     image_path: region/th/3.jpg
-  - url: region/4.jpg
+  - url: region/web/4.jpg
     image_path: region/th/4.jpg
-  - url: region/5.jpg
+  - url: region/web/5.jpg
     image_path: region/th/5.jpg
-  - url: region/6.jpg
+  - url: region/web/6.jpg
     image_path: region/th/6.jpg
-  - url: region/7.jpg
+  - url: region/web/7.jpg
     image_path: region/th/7.jpg
-  - url: region/8.jpg
+  - url: region/web/8.jpg
     image_path: region/th/8.jpg
-  - url: region/9.jpg
+  - url: region/web/9.jpg
     image_path: region/th/9.jpg
-  - url: region/10.jpg
+  - url: region/web/10.jpg
     image_path: region/th/10.jpg
-  - url: region/11.jpg
+  - url: region/web/11.jpg
     image_path: region/th/11.jpg
-  - url: region/12.jpg
+  - url: region/web/12.jpg
     image_path: region/th/12.jpg
-  - url: region/13.jpg
+  - url: region/web/13.jpg
     image_path: region/th/13.jpg
-  - url: region/14.jpg
+  - url: region/web/14.jpg
     image_path: region/th/14.jpg
-  - url: region/15.jpg
+  - url: region/web/15.jpg
     image_path: region/th/15.jpg
   
 ---
