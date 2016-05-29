@@ -1,0 +1,42 @@
+---
+layout: single
+---
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+}
+.gallery-image-wrapper p {
+  text-align: left;
+  font-size: 80%;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+<hr />
+
+View <a href="entrance hall.jpg">slideshow</a>
+
+<hr />
+
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+        <a name="{{ image }}"></a>
+        <a href="{{ image }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
+
+          <figure class="gallery-image">
+            <img src="thumbs/{{ image }}" />
+            <figcaption>{{ image | downcase | remove: ".jpg" }}</figcaption>
+          </figure>
+        </a>
+    </div>
+{% endfor %}

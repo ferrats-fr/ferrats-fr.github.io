@@ -1,16 +1,24 @@
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/
+  - title: "Downstairs"
+    url: /downstairs/
 
-  - title: "Sample Posts"
-    url: https://mmistakes.github.io/minimal-mistakes/year-archive/
+  - title: "Upstairs"
+    url: /upstairs/
 
-  - title: "Sample Pages"
-    url: https://mmistakes.github.io/minimal-mistakes/page-archive/
+  - title: "Availability"
+    url: /availability/
 
-  - title: "Sample Collections"
-    url: https://mmistakes.github.io/minimal-mistakes/collection-archive/
+  - title: "Cap Corsica"
+    url: /region/
+
+  - title: "About us"
+    url: /about/
+
+  - title: "Contacts"
+    url: /contacts/
+
+  - title: "Access"
+    url: /access/
+    
