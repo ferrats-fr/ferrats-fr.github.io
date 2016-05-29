@@ -120,7 +120,7 @@ gallery:
 {% include toc %}
 
 The upstairs gite has an independent entrance and can accomodate 5
-people. It has a large living area with chimney insert and an open
+people. It has a large living area with wood burning stove and an open
 kitchen, a total surface area of 75m2.
 
 ## Gallery
