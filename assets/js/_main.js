@@ -44,7 +44,7 @@ $(document).ready(function(){
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
     disableOn: function() {
-      if( $(window).width() < 500 ) {
+      if( $(window).width() < 200 ) {
         return false;
       }
       return true;
