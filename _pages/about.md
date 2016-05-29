@@ -20,7 +20,7 @@ from England many years ago and met Jocelyne... he works as a software
 architect and is lucky enough to often be able to work from Corsica during
 the school holidays...
 
-We fell in love with “Casa Albore” as soon as we saw the house. It’s a
+We fell in love with [Casa Albore](/) as soon as we saw the house. It’s a
 typical old corsican house, with 3-foot thick stone walls and wooden
 beams, in a region that’s almost completely unspoiled by tourism, and
 has a superb view out over the maquis and the sea. The house has been
