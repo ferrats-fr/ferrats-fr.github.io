@@ -14,9 +14,10 @@ calendar: true
 | **[Gite du Bas](/downstairs)**   | 6-7 pl | 550             | 800                   | 500                  | 400                   |
 | **[Gite du Haut](/upstairs)** | 5 pl    | 450             | 650                   | 400                  | 350                   |
 
-All prices in Euros and per week. July and August weekly rental Saturday-Saturday. Rental minimum 4 nights outside of July/August. Please see our [terms of rental](/terms/) for the fine print!
-
-See also [how to get there](/access/).
+All prices in Euros and per week. July and August weekly rental
+Saturday-Saturday. Rental minimum 4 nights outside of
+July/August. Please see our [terms of rental](/terms/) for the fine
+print, and [how to get there](/access/)!.
 
 ## Availability
 

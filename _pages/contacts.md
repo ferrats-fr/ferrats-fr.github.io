@@ -16,5 +16,6 @@ Feel free to call or write an email to ask any questions you may have...
 |                 | Casa Albore |  [+33 (0)4.95.57.41.63](tel:+33495574163) |
 
 You can check the house's [availability](/availability/), or see the
-[directions](/access/) to the house.
+[directions](/access/) to the house, and here's a little information
+about [us](/about/)!.
 

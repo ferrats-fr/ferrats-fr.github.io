@@ -175,7 +175,7 @@ Please feel free to browse the "Gite du Haut" visitors book:
   
 ## Availability and pricing
 
-Please see the [availability and pricing](/availability) for this gite or [contact us](/contact) with any questions.
+Please see the [availability and pricing](/availability) for this gite or [contact us](/contacts/) with any questions.
 
 ## Downstairs gite
 
