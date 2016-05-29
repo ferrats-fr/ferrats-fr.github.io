@@ -69,7 +69,7 @@ Please click on a photo to visit
 ## Nearby Activities
 
 The following activities can all be found within less than 20 minutes of the
-house...
+house, and details are in our booklet...
 
 ### Sea
 * Sandy Beaches
