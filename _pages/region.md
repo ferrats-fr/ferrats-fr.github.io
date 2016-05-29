@@ -68,7 +68,7 @@ Please click on a photo to visit
 
 ## Nearby Activities
 
-The following activities can all be found within 20 minutes of the
+The following activities can all be found within less than 20 minutes of the
 house...
 
 ### Sea
@@ -88,14 +88,13 @@ house...
 
 * Hiking
 * Swimming holes in rivers
-* Hunting
-* Climbing
 * Horse-Riding
 * Tennis
+* Swimming Pool
 * Road and Mountain Biking
+* Climbing
 * Quads
 * Paragliding
-* Swimming Pool
 * The Matei Windmill
 * The Tower of Sénèque 
 
