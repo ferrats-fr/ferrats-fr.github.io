@@ -42,11 +42,13 @@ gallery:
 
 {% include toc %}
 
-Some call Corsica “A Mountain in the Sea”. Of anywhere in Corsica,
+Cap Corse is one of the most 
+unspoiled regions of the whole Isle of Beauty.
+
+Corsica is “a Mountain in the Sea”. Of anywhere in Corsica,
 it’s Cap Corse in the extreme north of the island that merits the
 name. This peninsula is 40km long and 15km wide. In the middle runs a
-ridge, with Mont Stello rising to 1307m. Cap Corse is one of the most
-unspoiled regions of the whole Isle of Beauty.
+ridge, with Mont Stello rising to 1307m. 
 
 There are 25 beaches in Cap Corse, the sandy beaches being
 concentrated on the east coast near our house (Pietracorbara, Cagnano,
