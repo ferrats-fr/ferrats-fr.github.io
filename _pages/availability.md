@@ -17,8 +17,6 @@ calendar: true
 Tout prix en euros et par semaine. Juillet et Aout location de samedi
 en samedi, autremement minimum de sejour 4 nuits.
 
-base-url : {{ site.baseurl }}
-
 Voir nos [conditions de location]({{ site.baseurl }}/terms/) pour plus de details, ou
 les [indications]({{ site.baseurl }}/access/) pour comment venir!
 
