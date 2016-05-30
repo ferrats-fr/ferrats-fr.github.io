@@ -3,7 +3,7 @@ layout: single
 title: Gite du Bas
 permalink: /downstairs/
 type: info
-header_text: Downstairs Gite
+header_text: Gite du Bas
 gallery_livre:
   - url: livret-bas/web/cover.jpg
     image_path: livret-bas/th/cover.jpg
@@ -57,131 +57,136 @@ gallery_livre:
 gallery:
   - url: gite-du-bas/web/view of house.JPG
     image_path: gite-du-bas/th/view of house.JPG
-    alt: "view of house"
+    alt: "la maison"
   - url: gite-du-bas/web/entrance with garden.JPG
     image_path: gite-du-bas/th/entrance with garden.JPG
-    alt: "entrance with garden"
+    alt: "entree avec jardin"
   - url: gite-du-bas/web/entrance hall.jpg
     image_path: gite-du-bas/th/entrance hall.jpg
-    alt: "entrance hall"
+    alt: "hall d'entree"
   - url: gite-du-bas/web/kitchen-with-fireplace.jpg
     image_path: gite-du-bas/th/kitchen-with-fireplace.jpg
-    alt: "kitchen-with-fireplace"
+    alt: "cuisine avec cheminee"
   - url: gite-du-bas/web/kitchen opening to terrace.jpg
     image_path: gite-du-bas/th/kitchen opening to terrace.jpg
-    alt: "kitchen opening to terrace"
+    alt: "cuisine ouvrante sur la terrasse"
   - url: gite-du-bas/web/kitchen again.JPG
     image_path: gite-du-bas/th/kitchen again.JPG
-    alt: "kitchen again"
+    alt: "la cuisine encore"
   - url: gite-du-bas/web/view from terrace.JPG
     image_path: gite-du-bas/th/view from terrace.JPG
-    alt: "view from terrace"
+    alt: "vue depuis la terrasse"
   - url: gite-du-bas/web/view of terrace.JPG
     image_path: gite-du-bas/th/view of terrace.JPG
-    alt: "view of terrace"
+    alt: "vue de la terrasse"
   - url: gite-du-bas/web/sitting room.jpg
     image_path: gite-du-bas/th/sitting room.jpg
-    alt: "sitting room"
+    alt: "salon"
   - url: gite-du-bas/web/sitting room-2.JPG
     image_path: gite-du-bas/th/sitting room-2.JPG
-    alt: "sitting room-2"
+    alt: "salon-2"
   - url: gite-du-bas/web/sitting room-3.JPG
     image_path: gite-du-bas/th/sitting room-3.JPG
-    alt: "sitting room-3"
+    alt: "salon-3"
   - url: gite-du-bas/web/parental-bedroom.JPG
     image_path: gite-du-bas/th/parental-bedroom.JPG
-    alt: "parental-bedroom"
+    alt: "chambre de maitre"
   - url: gite-du-bas/web/parental bedroom-2.JPG
     image_path: gite-du-bas/th/parental bedroom-2.JPG
-    alt: "parental bedroom-2"
+    alt: "chambre de maitre - 2"
   - url: gite-du-bas/web/bedroom bed-140cm.JPG
     image_path: gite-du-bas/th/bedroom bed-140cm.JPG
-    alt: "bedroom bed-140cm"
+    alt: "chambre avec lit 140cm"
   - url: gite-du-bas/web/bedroom - twin 80cm beds.JPG
     image_path: gite-du-bas/th/bedroom - twin 80cm beds.JPG
-    alt: "bedroom - twin 80cm beds"
+    alt: "chambre avec lits jumeaux 80cm"
   - url: gite-du-bas/web/bedrooms.JPG
     image_path: gite-du-bas/th/bedrooms.JPG
-    alt: "bedrooms"
+    alt: "chambres"
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
-    alt: "geneois towers"
+    alt: "tours geneoises"
   - url: gite-du-bas/web/Seneque Tower.JPG
     image_path: gite-du-bas/th/Seneque Tower.JPG
-    alt: "Seneque Tower"
+    alt: "Tour de Seneque"
   - url: gite-du-bas/web/Tamarone beach.jpg
     image_path: gite-du-bas/th/Tamarone beach.jpg
-    alt: "Tamarone beach"
+    alt: "Plage de Tamarone"
   
 ---
 
 {% include toc %}
 
-The downstairs gite can sleep 6-7 people and has a very large
-living room, huge fully equipped kitchen, and a big terrace
-(approx 1200 sq. ft + terrace)
+Le gite du bas peut acceuillir 6-7 personnes, et a un tres grand
+salon, enorme cuisine tres bien equipe, et une grande terrasse
+pour manger dehors (120m2 + 15m2 de terrasse).
 
 ## Gallery
 
-Please click on a photo to visit
+Selectionner une image pour visionner la galerie...
 
 {% include base_path %}
 
 {% include gallery %}
 
-## Detailed Description
+## Descriptif Detaillee
 
-* Living room
-  * TV, DVD, stereo, 3 sofas, ...
-* Kitchen
-  * Kitchen table with room for 8-10
-  * American style fridge/ freezer
-  * Dishwasher
-  * Oven, gas hobs, microwave
-  * Coffee machine, toaster, kettle, ...
-  * Open hearth fire at waist-height for cooking figatelli, etc...
-* Bedrooms
-  * Double bedroom with king-size bed
-  * Double bedroom with queen-size bed
-  * Twin bedroom with two 80cm beds
-  * Spare bed in living room (80 x 180)
-  * Travel cot available
-* Bathroom
-  * Shower, WC, sink
-  * Hair-drier, heated towel rack
-* Terrace
-  * BBQ
-  * Dining table seats 8-10
-  * Outstanding view over maquis to the sea
-  * Shaded area
-* Utility Room (in basement)
-  * Washing machine, washing line
-  * Shower for after a day at the beach
-  * WC
-* Outside
-  * Single private parking space
-  * Small garden with table + chairs
-* Other
-  * Children’s games. Books in English.
-  * Fans in each bedroom
-  * Double glazing. Central heating (oil)
-  * Internet access in the summer or upon prior arrangement.
-  * Total surface area: 120 m² + 15 m² terrace (1300 sq. ft. + 160 sq. ft. of terrace)
-  * No smoking
+* Salon
+  * Télé, DVD, chaine stéréo, 3 canapés
+    Cuisine
+  * Table à manger pour 8-10 personnes
+  * Réfrigérateur américain avec congélateur
+  * Lave-vaisselle
+  * Four, table de cuisson gaz, micro-onde
+  * Cafetière, grille-pain, bouilloire
+  * Cheminée en hauteur pour figatelli etc.
+    Salle de bains
+  * Douche, WC, lavabo
+  * Sèche-cheveux, sèche serviettes
+     Couchages
+  * Chambre avec lit 160, WC indépendant
+  * Chambre avec lit 140
+  * Chambre 2 lits jumelante en 80
+     (accès par chambre avec lit 140)
+  * Lit d’appoint dans salon (80x180)
+  * Possibilité de lit bébé
+* Terrasse
+  * Barbecue
+  * Table à manger pour 8-10 personnes
+  * Vue sur maquis et mer
+  * Ombragé
+* Buanderie (accès par l'extérieur)
+  * Lave-linge, étendage
+  * Douche d’été
+  * Toilette
+* À l'extérieur
+  * Parking privatif pour une voiture
+  * Jardinet avec table et chaises
+* Divers
+  * Jeux pour enfants, Livres
+  * Ventilateurs dans chaque chambre et cuisine
+  * Double vitrage, chauffage central
+  * Accès internet wifi l’été ou avec entente préalable avec propriétaire
+  * Surface habitable 120 m² + 15 m² de terrasse
+  * Non-fumeur (possibilité de fumer sur la terrasse)
 
-## Visitors' book
+## Livre d'or
 
-Please feel free to browse the "Gite du Bas" visitors book:
+Voici le livre d'or du gite du bas...
 
 {% include base_path %}
 
 {% include gallery id="gallery_livre" %}
 
-## Availability and pricing
+## Disponibilites et prix
 
-Please see the [availability and pricing](/availability) for this gite or [contact us](/contacts/) with any questions.
+Voir [disponibilites et prix](/availability) pour ce gite ou
+[nous contacter](/contacts/) avec toute question...
 
-## Upstairs gite
+## Gite du haut
 
- You may also wish to see the [upstairs gite](/upstairs). The two gites can be reunited for larger groups, with sleeping for up to 12 - there is room in the downstairs gite for everyone to eat together.
+Vous pouvez egalement voir le [gite du haut](/upstairs). Les deux
+gites pouvant être loués ensemble pour les plus grand rassemblements -
+il y a de la place en bas pour que tout le monde se reunissent et
+mangent ensemble.
 
