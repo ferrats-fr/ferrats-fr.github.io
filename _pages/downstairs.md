@@ -133,17 +133,17 @@ Selectionner une image pour visionner la galerie...
 
 * Salon
   * Télé, DVD, chaine stéréo, 3 canapés
-    Cuisine
+* Cuisine
   * Table à manger pour 8-10 personnes
   * Réfrigérateur américain avec congélateur
   * Lave-vaisselle
   * Four, table de cuisson gaz, micro-onde
   * Cafetière, grille-pain, bouilloire
   * Cheminée en hauteur pour figatelli etc.
-    Salle de bains
+* Salle de bains
   * Douche, WC, lavabo
   * Sèche-cheveux, sèche serviettes
-     Couchages
+* Couchages
   * Chambre avec lit 160, WC indépendant
   * Chambre avec lit 140
   * Chambre 2 lits jumelante en 80
