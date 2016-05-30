@@ -1,24 +1,23 @@
 # main links links
 main:
 
-  - title: "Downstairs"
+  - title: "Gite du bas"
     url: /downstairs/
 
-  - title: "Upstairs"
+  - title: "Gite du haut"
     url: /upstairs/
 
-  - title: "Availability"
+  - title: "Disponabilité"
     url: /availability/
 
-  - title: "Cap Corsica"
+  - title: "Cap Corse"
     url: /region/
 
-  - title: "About us"
+  - title: "Nous"
     url: /about/
 
-  - title: "Contacts"
+  - title: "Contact"
     url: /contacts/
 
-  - title: "Getting There"
+  - title: "Indications"
     url: /access/
-    
