@@ -180,12 +180,12 @@ Voici le livre d'or du gite du bas...
 
 ## Disponibilites et prix
 
-Voir [disponibilites et prix]({{ baseurl }}/availability) pour ce gite ou
-[nous contacter]({{ baseurl }}/contacts/) avec toute question...
+Voir [disponibilites et prix]({{ site.baseurl }}/availability) pour ce gite ou
+[nous contacter]({{ site.baseurl }}/contacts/) avec toute question...
 
 ## Gite du haut
 
-Vous pouvez egalement voir le [gite du haut]({{ baseurl }}/upstairs). Les deux
+Vous pouvez egalement voir le [gite du haut]({{ site.baseurl }}/upstairs). Les deux
 gites pouvant être loués ensemble pour les plus grand rassemblements -
 il y a de la place en bas pour que tout le monde se reunissent et
 mangent ensemble.
