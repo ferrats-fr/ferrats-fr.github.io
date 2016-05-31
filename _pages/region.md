@@ -116,6 +116,8 @@ house, and details are in our booklet...
  
 ## Interactive map
 
-<iframe
-src="https://www.google.com/maps/d/embed?mid=1il_aDvI5sn3KuWTmbKxdpkflZ14"
-width="640" height="768"></iframe>
+<div style='position: relative; width: 80%; height: 0px; padding-bottom: 120%;'>
+<iframe style='position: absolute; left: 0px; top: 0px; width: 100%; height: 100%'
+    src="https://www.google.com/maps/d/embed?mid=1il_aDvI5sn3KuWTmbKxdpkflZ14">
+</iframe>
+</div>
