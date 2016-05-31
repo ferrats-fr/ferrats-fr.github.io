@@ -72,39 +72,39 @@ Sélectionner une image pour visionner la galerie...
 Tout les activités sont à moins de 20 minutes de la maison:
 
 * A la Mer
-** Plages
-** Planche à voile
-** Sorties Bateau
-** Kayak de mer
-** Voile
-** Pêche
-** Plongée sur épaves, récifs
-** Jet-Ski
-** Sentier du douanier
-** Tours Génoise
-** La réserve des iles Finocchiarola
+  * Plages
+  * Planche à voile
+  * Sorties Bateau
+  * Kayak de mer
+  * Voile
+  * Pêche
+  * Plongée sur épaves, récifs
+  * Jet-Ski
+  * Sentier du douanier
+  * Tours Génoise
+  * La réserve des iles Finocchiarola
 * A Terre
-** Randonnées
-** Trous d’eau des rivières
-** Escalade
-** Promenades à cheval
-** Chasse
-** Tennis
-** Vélo + VTT
-** Quad
-** Parapente
-** Piscine
-** Le Moulin Mateii
-** Le Tour de Sénèque
+  * Randonnées
+  * Trous d’eau des rivières
+  * Escalade
+  * Promenades à cheval
+  * Chasse
+  * Tennis
+  * Vélo + VTT
+  * Quad
+  * Parapente
+  * Piscine
+  * Le Moulin Mateii
+  * Le Tour de Sénèque
 * Côté Pratique
-** Tournées camion dans hameau
-*** Boulangerie
-*** Boucher
-*** Epicerie
-** A 12 minutes
-*** Supermarché
-*** Pharmacie, Médecin
-*** Poste, Tabac, Garage
-*** Restaurants, Pizzerias, ...
-** A 40 minutes
-*** Grands commerces à Bastia
+  * Tournées camion dans hameau
+    * Boulangerie
+    * Boucher
+    * Epicerie
+  * A 12 minutes
+    * Supermarché
+    * Pharmacie, Médecin
+    * Poste, Tabac, Garage
+    * Restaurants, Pizzerias, ...
+  * A 40 minutes
+    * Grands commerces à Bastia
