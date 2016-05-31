@@ -175,9 +175,9 @@ Please feel free to browse the "Gite du Haut" visitors book:
   
 ## Availability and pricing
 
-Please see the [availability and pricing](/availability) for this gite or [contact us](/contacts/) with any questions.
+Please see the [availability and pricing]({{ base_path }}/availability) for this gite or [contact us]({{ base_path }}/contacts/) with any questions.
 
 ## Downstairs gite
 
-You may also wish to see the [downstairs gite](/downstairs). The two gites can be reunited for larger groups, with sleeping for up to 12 - there is room in the downstairs gite for everyone to eat together.
+You may also wish to see the [downstairs gite]({{ base_path }}/downstairs). The two gites can be reunited for larger groups, with sleeping for up to 12 - there is room in the downstairs gite for everyone to eat together.
 
