@@ -11,42 +11,34 @@ header_text: Directions
 
 ## Corsica
 
-### Air
+### Avion
 
-[EasyJet](http://www.easyjet.com/) flies from Gatwick + Manchester
-(May-Sept), Paris, Geneva or Lyon.
-[FlyBe](http://www.flybe.com) flies from Southampton
-or Birmingham (June-Sept).
-There are also quite a few charters in the summer.  You can also check
-[Air Corsica](http://www.aircorsica.com/)/CCM and
+[EasyJet](http://www.easyjet.com/) pour Bastia, departs de Mulhouse,
+Geneve, Lyon, Toulouse, Paris CDG.
+[Air Corsica](http://www.aircorsica.com/)/CCM ou
 [Air France](http://www.airfrance.com).
 
-Destination Bastia Poretta, Or fly to Pisa and take the shortest
-sea-route from the continent using
-[Corsica Ferries](https://corsica-ferries.co.uk/) from Livorno (30
-minutes bus from Pisa Airport)...
+Vous auriez besoin d'une voiture en corse - on peut les louer
+a l'aeroport assez facilement.
 
-You’ll need a car when in Corsica, they can be rented at Bastia
-airport. Try to reserve travel in advance to get cheaper prices!
+### Ferries
 
-### Ferry
-
-You can travel from south France or from Italy by ferry with one of:
 [Corsica linea](http://www.corsicalinea.com/),
-[Corsica Ferries](https://www.corsica-ferries.co.uk/) or
+[Corsica Ferries](https://www.corsica-ferries.co.uk/) ou
 [MobyLines](http://www.mobylines.com/).
 
-We typically travel with
-[Corsica Ferries](https://www.corsica-ferries.co.uk/) from Toulon
-(overnight) or Nice (daytime) to Bastia, it's reliable, comfortable,
-and typically cheaper than the other choices available!
+En generale nous voyageons avec
+[Corsica Ferries](https://www.corsica-ferries.co.uk/) entre Toulon
+(de nuit) ou Nice (de jour) et Bastia - c'est fiable, comfortable
+et à notre experience, moins cher que les autres.
 
 ## Casa Albore
 
-It takes around 45 minutes to get from Bastia to the village of Suare.
+Ca prends 45 minutes d'aller de Bastia à Casa Albore.
 
-You can get directions to get to the house with the map below:
+Voici une carte pour avoir les indications:
 
 <iframe width="350" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=suare,+cagnano,+france&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=34.587666,71.982422&amp;ie=UTF8&amp;hq=&amp;hnear=Suare,+Cagnano,+Haute-Corse,+Corse,+France&amp;iwloc=near&addr&amp;t=m&amp;ll=42.847779,9.380951&amp;spn=0.402738,0.479279&amp;z=10&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=suare,+cagnano,+france&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=34.587666,71.982422&amp;ie=UTF8&amp;hq=&amp;hnear=Suare,+Cagnano,+Haute-Corse,+Corse,+France&amp;t=m&amp;ll=42.847779,9.380951&amp;spn=0.402738,0.479279&amp;z=10" style="color:#0000FF;text-align:left">Enlarge the map</a></small>
 
-We will provide turn-by-turn details up to the house for you if you make a reservation.
+Si vous venez chez nous, nous vous fournirons les indications exacte pour se
+rendre à la maison.

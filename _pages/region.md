@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Cap Corsica
+title: Cap Corse
 permalink: /region/
 type: info
-header_text: Cap Corsica
+header_text: Cap Corse
 gallery:
   - url: region/web/0.jpg
     image_path: region/th/0.jpg
@@ -42,75 +42,69 @@ gallery:
 
 {% include toc %}
 
-Cap Corse is one of the most 
-unspoiled regions of the whole Isle of Beauty.
+Si la Corse est une "montagne dans la mer", c'est sans aucun doute le
+Cap Corse, à l'extrémité nord de l'île, qui mérite le mieux cette
+appellation. A l'abri du Mont Stello, qui culmine à 1307 mètres
+d'altitude, ce bras de terre de 40 km de long pour 15 km de large est
+une des régions les plus sauvages et moins peuplée de toute l'île de
+Beauté.
 
-Corsica is “a Mountain in the Sea”. Of anywhere in Corsica,
-it’s Cap Corse in the extreme north of the island that merits the
-name. This peninsula is 40km long and 15km wide. In the middle runs a
-ridge, with Mont Stello rising to 1307m. 
+De Brando à Olmeta di Capicorsu, on dénombre 25 plages dans le
+Cap. Les plages de sable sont concentrées près de notre maison, à
+l'est (Pietracorbara, Cagnano, Tamarone) et au nord (Barcaghju).
 
-There are 25 beaches in Cap Corse, the sandy beaches being
-concentrated on the east coast near our house (Pietracorbara, Cagnano,
-Tamarone) and to the north (Barcaghju).
+Dans la maison se trouves un livret avec tout nos endroits préféré
+du Cap - les plages, balades, restaurants, magasins et plus, et
+avec de l'information sur chaque un des activités ci-dessous... si vous
+louez chez nous, nous pouvons vous envoyer une copie électronique
+pour vous mettre dans l'ambiance déjà!
 
-In the house is a detailed booklet of all our favourite places in Cap
-Corsica - beaches, walks, restaurants, shops and more, with
-information on all the below activities... if you will be coming to
-Casa Albore then we can send you an electronic copy of our booklet to
-help you start planning your stay...
+## Gallerie
 
-## Gallery
-
-Please click on a photo to visit
+Sélectionner une image pour visionner la galerie...
 
 {% include base_path %}
 
 {% include gallery %}
 
-## Nearby Activities
+## Activités proches
 
-The following activities can all be found within less than 20 minutes of the
-house, and details are in our booklet...
+Tout les activités sont à moins de 20 minutes de la maison:
 
-### Sea
-* Sandy Beaches
-* Wind-surfing
-* Boat Trips
-* Sea canoeing
-* Sailing
-* Fishing
-* Scuba Diving (wrecks, reefs)
-* Jet-Ski
-* Coastal paths
-* Historical Genoise towers
-* The Finocchiarolo isles nature reserve
-
-### On Land
-
-* Hiking
-* Swimming holes in rivers
-* Horse-Riding
-* Tennis
-* Swimming Pool
-* Road and Mountain Biking
-* Climbing
-* Quads
-* Paragliding
-* The Matei Windmill
-* The Tower of Sénèque 
-
-### Practicalities
-
-* Delivery vans coming to the village:
-  * Baker
-  * Butcher
-  * Grocer
-* 12 minutes away
-  * Supermarket
-  * Chemists, GP
-  * Post Office,Tobacconist
-  * Restaurants, Pizzerias, ...
-* 40 minutes away
-  * Hypermarkets and large shops in Bastia
- 
+* A la Mer
+** Plages
+** Planche à voile
+** Sorties Bateau
+** Kayak de mer
+** Voile
+** Pêche
+** Plongée sur épaves, récifs
+** Jet-Ski
+** Sentier du douanier
+** Tours Génoise
+** La réserve des iles Finocchiarola
+* A Terre
+** Randonnées
+** Trous d’eau des rivières
+** Escalade
+** Promenades à cheval
+** Chasse
+** Tennis
+** Vélo + VTT
+** Quad
+** Parapente
+** Piscine
+** Le Moulin Mateii
+** Le Tour de Sénèque
+* Côté Pratique
+** Tournées camion dans hameau
+*** Boulangerie
+*** Boucher
+*** Epicerie
+** A 12 minutes
+*** Supermarché
+*** Pharmacie, Médecin
+*** Poste, Tabac, Garage
+*** Restaurants, Pizzerias, ...
+** A 40 minutes
+*** Grands commerces à Bastia

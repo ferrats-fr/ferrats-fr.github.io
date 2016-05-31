@@ -1,38 +1,29 @@
 ---
 layout: single
-title: Terms of Rental
+title: Conditions de location
 permalink: /terms/
 type: info
-header_text: Terms of Rental
+header_text: Conditions de location
 ---
 
-The rental periods in July / August are from Saturday at 4pm until the
-following Saturday at 10 am. Outside of that period, we rent for a
-minimum of 4 nights without fixed start days.
 
-When a reservation request is made, we will acknowledge the request
-and send you a contract to be signed in double and returned within a
-week together with a 25% deposit. The reservation will be cancelled if
-we do not receive the contract and cheque on time (cheque can be in
-UKP upon prior arrangement, and inter-bank transfer in the UK is also
-acceptable).  The remainder of the rental fee must be paid prior to
-the rental, we typically ask for full payment one month before rentals
-over the summer vacations.
+L'occupation des logements en juillet-août est prévue du samedi du jour d'arrivée à 16h au samedi du jour de départ à 10h. En dehors de l’été, nous louons pour un minimum de 4 nuits.
 
-Maximum occupancy must not exceed the advertised number of places in a
-gite. Children under 3 years of age are not counted in the total
-headcount.
+Les demandes de réservation téléphoniques devront être confirmées par l'envoi d’une fiche pré-remplie de demande de réservation.
 
-Casa Albore is a non-smoking house. You can smoke on the ground-floor
-terrace or outside.
+A réception de la demande de réservation, vous recevrez en retour un contrat de location à retourner signé accompagné d’un cheque des arrhes de 25% la semaine qui suit, avec paiement complet avant le début de location (en période estivale nous demandons paiement un mois avant).
 
-Electricity, gas, heating and wood for the winter are included in the
-price.
+Aucun supplément ne sera compté pour les enfants de moins de 3 ans.
 
-Linen including sheets and bath-towels can be rented for 10€ per person.
+Casa Albore est une maison non-fumeur, vous pouvez fumer sur la terrasse du gite du bas, ou dehors.
 
-A cleaning service is offered at a cost of 50€ / gite.
+Les charges, avec chauffage et bois en hiver pour cheminée sont compris.
 
-We accept animals if they aren’t too excitable and do not risk
-degrading the gite, since we want to be able to continue to offer an
-outstanding gite for people to stay!
+Le linge de maison peut être loué au forfait 10€ / personne, serviettes et draps compris.
+
+Le ménage de fin de séjour est proposé au forfait de 50€ / gite.
+
+Nous demandons un chèque de caution de 350€ qui est rendu à la fin du séjour.
+
+Pour les animaux, nous les acceptons uniquement s'ils sont calme de manière à ne pas dégrader le gîte, car nous venons de l'aménager et nous essayons d'offrir quelque chose de coquet :-)
+

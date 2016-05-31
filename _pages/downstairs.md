@@ -117,19 +117,19 @@ gallery:
 
 {% include toc %}
 
-Le gite du bas peut acceuillir 6-7 personnes, et a un tres grand
-salon, enorme cuisine tres bien equipe, et une grande terrasse
+Le gite du bas peut accueillir 6-7 personnes, et a un très grand
+salon, énorme cuisine très bien équipé, et une grande terrasse
 pour manger dehors (120m2 + 15m2 de terrasse).
 
 ## Gallery
 
-Selectionner une image pour visionner la galerie...
+Sélectionner une image pour visionner la galerie...
 
 {% include base_path %}
 
 {% include gallery %}
 
-## Descriptif Detaillee
+## Descriptif Détaillée
 
 * Salon
   * Télé, DVD, chaine stéréo, 3 canapés
@@ -144,7 +144,7 @@ Selectionner une image pour visionner la galerie...
   * Douche, WC, lavabo
   * Sèche-cheveux, sèche serviettes
 * Couchages
-  * Chambre avec lit 160, WC indépendant
+  * Chambre avec lit 160, ventilateur de plafond, WC indépendant
   * Chambre avec lit 140
   * Chambre 2 lits jumelante en 80
      (accès par chambre avec lit 140)
@@ -178,15 +178,15 @@ Voici le livre d'or du gite du bas...
 
 {% include gallery id="gallery_livre" %}
 
-## Disponibilites et prix
+## Disponibilités et prix
 
-Voir [disponibilites et prix]({{ site.baseurl }}/availability) pour ce gite ou
+Voir [disponibilités et prix]({{ site.baseurl }}/availability) pour ce gite ou
 [nous contacter]({{ site.baseurl }}/contacts/) avec toute question...
 
 ## Gite du haut
 
-Vous pouvez egalement voir le [gite du haut]({{ site.baseurl }}/upstairs). Les deux
+Vous pouvez également voir le [gite du haut]({{ site.baseurl }}/upstairs). Les deux
 gites pouvant être loués ensemble pour les plus grand rassemblements -
-il y a de la place en bas pour que tout le monde se reunissent et
+il y a de la place en bas pour que tout le monde se réunissent et
 mangent ensemble.
 

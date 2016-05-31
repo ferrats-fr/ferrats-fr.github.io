@@ -1,15 +1,13 @@
 ---
 layout: single
-title: Contacting us
+title: Nous contacter
 permalink: /contacts/
 type: info
-header_text: Contacting us
+header_text: Nous contacter
   
 ---
 
-Feel free to call [Joss or Nick]({{ site.baseurl }}/about/) or Mme. Savoldelli who looks
-after the house when we are not there, or write an email to ask any
-questions you may have...
+N’hésitez pas à appeler [Joss or Nick]({{ site.baseurl }}/about/) ou Mme. Savoldelli qui s’occupes de la maison quad nous n’y somas pas, ou nous contacted par email pour tout question…
 
 | **Email** | [casa.albore@free.fr](mailto:casa.albore@free.fr) |
 | **Telephone**    |  [Joss]({{ site.baseurl }}/about/)   | [+33 (0)6.79.26.22.92](tel:+33679262292) |
@@ -17,6 +15,6 @@ questions you may have...
 |                             |  Mme. Savoldelli  |  [+33 (0)6.25.56.28.09](tel:+33625562809) |
 |                             | Casa Albore |  [+33 (0)4.95.57.41.63](tel:+33495574163) |
 
-You can check the house's [availability]({{ site.baseurl }}/availability/), or see the
-[directions]({{ site.baseurl }}/access/) to the house.
+Vous pouvez aussi consulter les [disponibilités]({{ site.baseurl }}/availability/) de la maison, ou voir les 
+[indications]({{ site.baseurl }}/access/) pour se rendre à la maison.
 
