@@ -114,3 +114,8 @@ house, and details are in our booklet...
 * 40 minutes away
   * Hypermarkets and large shops in Bastia
  
+## Interactive map
+
+<iframe
+src="https://www.google.com/maps/d/embed?mid=1il_aDvI5sn3KuWTmbKxdpkflZ14"
+width="640" height="768"></iframe>
