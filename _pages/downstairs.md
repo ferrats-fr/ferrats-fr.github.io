@@ -189,4 +189,3 @@ Vous pouvez également voir le [gite du haut]({{ site.baseurl }}/upstairs). Les 
 gites pouvant être loués ensemble pour les plus grand rassemblements -
 il y a de la place en bas pour que tout le monde se réunissent et
 mangent ensemble.
-
