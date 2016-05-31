@@ -15,7 +15,7 @@ calendar: true
 | **[Gite du Haut]({{ site.baseurl }}/upstairs)** | 5 pl    | 450             | 650                   | 400                  | 350                   |
 
 Tout prix en euros et par semaine. Juillet et Aout location de samedi
-en samedi, autrement minimum de séjour 4 nuits.
+en samedi, autrement  séjour minimum 4 nuits (tarif au pro-rata)
 
 Voir nos [conditions de location]({{ site.baseurl }}/terms/) pour plus de details, ou
 les [indications]({{ site.baseurl }}/access/) pour comment venir!
