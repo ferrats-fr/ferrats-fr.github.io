@@ -1,2 +1,2 @@
-git push fr gh-pages:gh-pages
-git push origin master:master
+git push en en:master
+git push fr fr:master
