@@ -136,38 +136,41 @@ Please click on a photo to visit:
 * Living + Dining room
   * Chimney with insert
   * TV, DVD, Radio
-* Kitchen Area
-  * Fridge/ Freezer
-  * Dishwasher
-  * Oven, gas hobs, microwave
-  * Coffee machine, toaster, kettle, ...
-* Bedrooms
-  * Double bedroom with queen-size bed
-  * Single bedroom with 120cm bed
-  * Twin bedroom with two 90cm beds
-  * Travel cot available
-* Bathroom
-  * Shower, WC, sink
-  * Hair-drier
-* Entrance
-  * Independent access
-  * Washing machine + clothes drying rack
-  * Hoover
-  * Iron + ironing board
-* Outside (on other side of house)
-  * Single private parking space
-  * Small garden with table + chairs
-* Other
-  * Children’s games. Books in English.
-  * Ceiling fan in living room, column fans in each bedroom
-  * Double glazing. Electric heating
-  * Internet access in the summer or upon prior arrangement.
-  * Total surface area: 75m² (over 800 sq. ft)
-  * No smoking
+  * Canapé et fauteils
+  * Table et chaises pour manger
+  * Cheminée (insert)
+* Cuisine américaine
+  * Réfrigérateur avec congélateur
+  * Lave-vaisselle
+  * Four, table de cuisson gaz, micro-onde
+  * Cafetière, grille-pain, bouilloire, ...
+* Couchages
+  * Chambre double avec lit 140
+  * Chambre simple avec lit 120
+  * Chambre avec 2 lits en 90
+  * Possibilité de lit bébé
+* Salle d'eau
+  * Douche, WC, lavabo
+  * Sèche-cheveux
+* Hall d’entrée
+  * Accès indépendant 
+  * Lave-linge et étendage
+  * Aspirateur
+  * Fer à repasser avec table
+* À l'extérieur (en contournant la maison)
+  * Parking privatif pour une voiture
+  * Jardinet avec table et chaises
+* Divers
+  * Jeux pour enfants, Livres
+  * Ventilateur plafond dans salon, colonne ds. chaque chambre
+  * Double vitrage, chauffage électrique
+  * Accès internet wifi l’été ou avec entente préalable avec propriétaire
+  * Surface habitable de 75m²
+  * Non-fumeur
 
-## Visitors' book
+## Livre d'or
 
-Please feel free to browse the "Gite du Haut" visitors book:
+Voici le livre d'or du gite du bas...
 
 {% include base_path %}
 
