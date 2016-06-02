@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Upstairs Gite
+title: Gite du Haut
 permalink: /upstairs/
 type: info
-header_text: Upstairs Gite
+header_text: Gite du Haut
 gallery_livre:
   - url: livret-haut/web/cover.jpg
     image_path: livret-haut/th/cover.jpg
@@ -71,113 +71,120 @@ gallery_livre:
 gallery:
   - url: gite-du-haut/web/entrance from village.JPG
     image_path: gite-du-haut/th/entrance from village.JPG
-    alt: "entrance from village"
+    alt: "entrée du village"
   - url: gite-du-haut/web/entrance hall.JPG
     image_path: gite-du-haut/th/entrance hall.JPG
-    alt: "entrance hall"
+    alt: "hall d'entrée"
   - url: gite-du-haut/web/living room.JPG
     image_path: gite-du-haut/th/living room.JPG
-    alt: "living room"
+    alt: "salon"
   - url: gite-du-haut/web/living room-2.JPG
     image_path: gite-du-haut/th/living room-2.JPG
-    alt: "living room-2"
+    alt: "salon-2"
   - url: gite-du-haut/web/living room-3.JPG
     image_path: gite-du-haut/th/living room-3.JPG
-    alt: "living room-3"
+    alt: "salon-3"
   - url: gite-du-haut/web/open kitchen.JPG
     image_path: gite-du-haut/th/open kitchen.JPG
-    alt: "open kitchen"
+    alt: "cuisine americain"
   - url: gite-du-haut/web/view from the window.JPG
     image_path: gite-du-haut/th/view from the window.JPG
-    alt: "view from the window"
+    alt: "vue de la fênetre"
   - url: gite-du-haut/web/bedroom with 140cm bed.JPG
     image_path: gite-du-haut/th/bedroom with 140cm bed.JPG
-    alt: "bedroom with 140cm bed"
+    alt: "chambre avec lit 140cm"
   - url: gite-du-haut/web/bedroom with 120cm bed.JPG
     image_path: gite-du-haut/th/bedroom with 120cm bed.JPG
-    alt: "bedroom with 120cm bed"
+    alt: "chamre avec lit 120cm"
   - url: gite-du-haut/web/twin bedroom.JPG
     image_path: gite-du-haut/th/twin bedroom.JPG
-    alt: "twin bedroom"
+    alt: "chambre avec lits jumeaux 80cm"
   - url: gite-du-haut/web/bathroom sink.JPG
     image_path: gite-du-haut/th/bathroom sink.JPG
-    alt: "bathroom"
+    alt: "salle d'eau"
   - url: gite-du-haut/web/bathroom with igloo shower.JPG
     image_path: gite-du-haut/th/bathroom with igloo shower.JPG
-    alt: "bathroom with igloo shower"
+    alt: "salle d'eau avec douche 'igloo'"
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
-    alt: "geneois towers"
+    alt: "Tour de Losso"
   - url: gite-du-bas/web/Seneque Tower.JPG
     image_path: gite-du-bas/th/Seneque Tower.JPG
-    alt: "Seneque Tower"
+    alt: "Tour de Seneque"
   - url: gite-du-bas/web/Tamarone beach.jpg
     image_path: gite-du-bas/th/Tamarone beach.jpg
-    alt: "Tamarone beach"
+    alt: "Plage de Tamarone"
 
 ---
 
 {% include toc %}
 
-The upstairs gite has an independent entrance and can accomodate 5
-people. It has a large living area with wood burning stove and an open
-kitchen, a total surface area of 75m2.
+Le gite du haut a un accès independent du village et peut accueillir 5
+personnes. Il y a une grande salon avec ventilateur au plafond et une
+cuisine americane, et une surface de 75m2.
 
-## Gallery
+## Gallerie
 
-Please click on a photo to visit:
-
+Sélectionner une image pour visionner la galerie...
+ 
 {% include base_path %}
 
 {% include gallery %}
 
-## Detailed Description
+## Descriptif Détaillée
 
-* Living + Dining room
-  * Chimney with insert
+* Salon / salle à manger
+  * Ventilateur de plafond
   * TV, DVD, Radio
-* Kitchen Area
-  * Fridge/ Freezer
-  * Dishwasher
-  * Oven, gas hobs, microwave
-  * Coffee machine, toaster, kettle, ...
-* Bedrooms
-  * Double bedroom with queen-size bed
-  * Single bedroom with 120cm bed
-  * Twin bedroom with two 90cm beds
-  * Travel cot available
-* Bathroom
-  * Shower, WC, sink
-  * Hair-drier
-* Entrance
-  * Independent access
-  * Washing machine + clothes drying rack
-  * Hoover
-  * Iron + ironing board
-* Outside (on other side of house)
-  * Single private parking space
-  * Small garden with table + chairs
-* Other
-  * Children’s games. Books in English.
-  * Ceiling fan in living room, column fans in each bedroom
-  * Double glazing. Electric heating
-  * Internet access in the summer or upon prior arrangement.
-  * Total surface area: 75m² (over 800 sq. ft)
-  * No smoking
+  * Canapé et fauteils
+  * Table et chaises pour manger
+  * Cheminée (insert)
+* Cuisine américaine
+  * Réfrigérateur avec congélateur
+  * Lave-vaisselle
+  * Four, table de cuisson gaz, micro-onde
+  * Cafetière, grille-pain, bouilloire, ...
+* Couchages
+  * Chambre double avec lit 140
+  * Chambre simple avec lit 120
+  * Chambre avec 2 lits en 90
+  * Possibilité de lit bébé
+* Salle d'eau
+  * Douche, WC, lavabo
+  * Sèche-cheveux
+* Hall d’entrée
+  * Accès indépendant 
+  * Lave-linge et étendage
+  * Aspirateur
+  * Fer à repasser avec table
+* À l'extérieur (en contournant la maison)
+  * Parking privatif pour une voiture
+  * Jardinet avec table et chaises
+* Divers
+  * Jeux pour enfants, Livres
+  * Ventilateur plafond dans salon, colonne ds. chaque chambre
+  * Double vitrage, chauffage électrique
+  * Accès internet wifi l’été ou avec entente préalable avec propriétaire
+  * Surface habitable de 75m²
+  * Non-fumeur
 
-## Visitors' book
+## Livre d'or
 
-Please feel free to browse the "Gite du Haut" visitors book:
+Voici le livre d'or du gite du bas...
 
 {% include base_path %}
 
 {% include gallery id="gallery_livre" %}
-  
-## Availability and pricing
 
-Please see the [availability and pricing]({{ base_path }}/availability) for this gite or [contact us]({{ base_path }}/contacts/) with any questions.
+## Disponibilités et prix
 
-## Downstairs gite
+Voir [disponibilités et prix]({{ site.baseurl }}/availability) pour ce gite ou
+[nous contacter]({{ site.baseurl }}/contacts/) avec toute question...
 
-You may also wish to see the [downstairs gite]({{ base_path }}/downstairs). The two gites can be reunited for larger groups, with sleeping for up to 12 - there is room in the downstairs gite for everyone to eat together.
+## Gite du bas
 
+Vous pouvez également voir le [gite du bas]({{ site.baseurl }}/downstairs). Les deux
+gites pouvant être loués ensemble pour les plus grand rassemblements -
+il y a de la place en bas pour que tout le monde se réunissent et
+mangent ensemble.
+ 
