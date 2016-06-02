@@ -17,7 +17,7 @@ calendar: true
 Tout prix en euros et par semaine. Juillet et Aout location de samedi
 en samedi, autrement  séjour minimum 4 nuits (tarif au pro-rata)
 
-Les livres d'or des gites sont visible sur chaque page: [Gite du Bas]({{ site.baseurl }}/downstairs#guestbook) et [Gite du Haut]({{ site.baseurl }}/upstairs#guestbook)
+Les livres d'or des gites sont visible pour chaque gite: [Gite du Bas]({{ site.baseurl }}/downstairs#livre-dor) ou [Gite du Haut]({{ site.baseurl }}/upstairs#livre-dor)
 
 Voir nos [conditions de location]({{ site.baseurl }}/terms/) pour plus de details, ou
 les [indications]({{ site.baseurl }}/access/) pour comment venir!
