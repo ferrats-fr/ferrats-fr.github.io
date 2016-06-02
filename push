@@ -1,4 +1,4 @@
 #!/bin/sh
 
 git push en en:master
-git push origin fr:master
+git push fr fr:master
