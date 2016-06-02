@@ -170,7 +170,8 @@ Sélectionner une image pour visionner la galerie...
   * Surface habitable 120 m² + 15 m² de terrasse
   * Non-fumeur (possibilité de fumer sur la terrasse)
 
-## Livre d'or
+
+## Livre d'or <a name="guestbook"></a>
 
 Voici le livre d'or du gite du bas...
 

@@ -168,7 +168,7 @@ Sélectionner une image pour visionner la galerie...
   * Surface habitable de 75m²
   * Non-fumeur
 
-## Livre d'or
+## Livre d'or <a name="guestbook"></a>
 
 Voici le livre d'or du gite du bas...
 
