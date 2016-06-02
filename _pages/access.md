@@ -13,21 +13,21 @@ header_text: Directions
 
 ### Air
 
-[EasyJet](http://www.easyjet.com/) flies from Gatwick + Manchester
+[EasyJet](http://www.easyjet.com/en/cheap-flights/france/corsica-bastia) flies from Gatwick + Manchester
 (May-Sept), Paris, Geneva or Lyon.
-[FlyBe](http://www.flybe.com) flies from Southampton
+[FlyBe](http://www.flybe.com/cheap-flights/corsica) flies from Southampton
 or Birmingham (June-Sept).
 There are also quite a few charters in the summer.  You can also check
 [Air Corsica](http://www.aircorsica.com/)/CCM and
-[Air France](http://www.airfrance.com).
+[Air France](http://www.airfrance.com) for the destination of Bastia Poretta. 
 
-Destination Bastia Poretta, Or fly to Pisa and take the shortest
-sea-route from the continent using
+Or [fly to Pisa](http://www.easyjet.com/en/cheap-flights/italy/pisa)
+ and take the short ferry trip from the continent using
 [Corsica Ferries](https://corsica-ferries.co.uk/) from Livorno (30
 minutes bus from Pisa Airport)...
 
 You’ll need a car when in Corsica, they can be rented at Bastia
-airport. Try to reserve travel in advance to get cheaper prices!
+airport or the ferry terminal. Try to reserve travel in advance to get cheaper prices!
 
 ### Ferry
 
