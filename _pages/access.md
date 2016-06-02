@@ -19,7 +19,7 @@ Geneve, Lyon, Toulouse, Paris CDG.
 [Air France](http://www.airfrance.com).
 
 Vous auriez besoin d'une voiture en corse - on peut les louer
-a l'aeroport assez facilement.
+a l'aeroport facilement.
 
 ### Ferries
 

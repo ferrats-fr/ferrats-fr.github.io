@@ -116,4 +116,3 @@ Tout les activités sont à moins de 20 minutes de la maison:
     src="https://www.google.com/maps/d/embed?mid=1il_aDvI5sn3KuWTmbKxdpkflZ14">
 </iframe>
 </div>
-
