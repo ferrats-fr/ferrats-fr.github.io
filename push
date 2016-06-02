@@ -1,2 +1,3 @@
+#!/bin/bash
 git push en en:master
 git push fr fr:master
