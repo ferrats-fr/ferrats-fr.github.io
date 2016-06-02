@@ -1,0 +1,4 @@
+#!/bin/sh
+
+git push en en:master
+git push origin master:master
