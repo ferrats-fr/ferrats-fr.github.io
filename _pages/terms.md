@@ -15,9 +15,8 @@ and send you a contract to be signed in double and returned within a
 week together with a 25% deposit. The reservation will be cancelled if
 we do not receive the contract and cheque on time (cheque can be in
 UKP upon prior arrangement, and inter-bank transfer in the UK is also
-acceptable).  The remainder of the rental fee must be paid prior to
-the rental, we typically ask for full payment one month before rentals
-over the summer vacations.
+acceptable).  The remainder of the rental fee must be paid one calendar
+month prior to the start of the rental.
 
 Maximum occupancy must not exceed the advertised number of places in a
 gite. Children under 3 years of age are not counted in the total
