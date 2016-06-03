@@ -190,7 +190,7 @@ Sélectionner une image pour visionner la galerie...
   * Non-fumeur (possibilité de fumer sur la terrasse)
 
 
-## Livre d'or <a name="guestbook"></a>
+## Livre d'or
 
 Voici le livre d'or du gite du bas...
 
