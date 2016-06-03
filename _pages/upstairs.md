@@ -72,48 +72,63 @@ gallery:
   - url: gite-du-haut/web/entrance from village.JPG
     image_path: gite-du-haut/th/entrance from village.JPG
     alt: "entrance from village"
+    title: "entrance from village"
   - url: gite-du-haut/web/entrance hall.JPG
     image_path: gite-du-haut/th/entrance hall.JPG
     alt: "entrance hall"
+    title: "entrance hall"
   - url: gite-du-haut/web/living room.JPG
     image_path: gite-du-haut/th/living room.JPG
     alt: "living room"
+    title: "living room"
   - url: gite-du-haut/web/living room-2.JPG
     image_path: gite-du-haut/th/living room-2.JPG
     alt: "living room-2"
+    title: "living room-2"
   - url: gite-du-haut/web/living room-3.JPG
     image_path: gite-du-haut/th/living room-3.JPG
     alt: "living room-3"
+    title: "living room-3"
   - url: gite-du-haut/web/open kitchen.JPG
     image_path: gite-du-haut/th/open kitchen.JPG
     alt: "open kitchen"
+    title: "open kitchen"
   - url: gite-du-haut/web/view from the window.JPG
     image_path: gite-du-haut/th/view from the window.JPG
     alt: "view from the window"
+    title: "view from the window"
   - url: gite-du-haut/web/bedroom with 140cm bed.JPG
     image_path: gite-du-haut/th/bedroom with 140cm bed.JPG
     alt: "bedroom with 140cm bed"
+    title: "bedroom with 140cm bed"
   - url: gite-du-haut/web/bedroom with 120cm bed.JPG
     image_path: gite-du-haut/th/bedroom with 120cm bed.JPG
     alt: "bedroom with 120cm bed"
+    title: "bedroom with 120cm bed"
   - url: gite-du-haut/web/twin bedroom.JPG
     image_path: gite-du-haut/th/twin bedroom.JPG
     alt: "twin bedroom"
+    title: "twin bedroom"
   - url: gite-du-haut/web/bathroom sink.JPG
     image_path: gite-du-haut/th/bathroom sink.JPG
     alt: "bathroom"
+    title: "bathroom"
   - url: gite-du-haut/web/bathroom with igloo shower.JPG
     image_path: gite-du-haut/th/bathroom with igloo shower.JPG
     alt: "bathroom with igloo shower"
+    title: "bathroom with igloo shower"
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
     alt: "geneois towers"
+    title: "geneois towers"
   - url: gite-du-bas/web/Seneque Tower.JPG
     image_path: gite-du-bas/th/Seneque Tower.JPG
     alt: "Seneque Tower"
+    title: "Seneque Tower"
   - url: gite-du-bas/web/Tamarone beach.jpg
     image_path: gite-du-bas/th/Tamarone beach.jpg
     alt: "Tamarone beach"
+    title: "Tamarone beach"
 
 ---
 
