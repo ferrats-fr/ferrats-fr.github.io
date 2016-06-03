@@ -87,6 +87,14 @@ gallery:
     image_path: gite-du-bas/th/view of terrace.JPG
     alt: "view of terrace"
     title: "view of terrace"
+  - url: gite-du-bas/web/sunrise from terrace.JPG
+    image_path: gite-du-bas/th/sunrise from terrace.JPG 
+    alt: "sunrise from the terrace" 
+    title: "sunrise from the terrace" 
+  - url: gite-du-bas/web/terrace with bbq.JPG 
+    image_path: gite-du-bas/th/terrace with bbq.JPG 
+    alt: "terrace with barbecue" 
+    text: "terrace with barbecue" 
   - url: gite-du-bas/web/sitting room.jpg
     image_path: gite-du-bas/th/sitting room.jpg
     alt: "sitting room"
