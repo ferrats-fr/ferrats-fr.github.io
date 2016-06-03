@@ -134,9 +134,9 @@ gallery:
 
 {% include toc %}
 
-Le gite du haut a un accès independent du village et peut accueillir 5
-personnes. Il y a une grande salon avec ventilateur au plafond et une
-cuisine americane, et une surface de 75m2.
+Le gite du haut a un accès independant et peut accueillir 5
+personnes. Il y a un grand salon avec ventilateur au plafond et une
+cuisine américaine, et une surface de 75m2.
 
 ## Gallerie
 
@@ -151,7 +151,7 @@ Sélectionner une image pour visionner la galerie...
 * Salon / salle à manger
   * Ventilateur de plafond
   * TV, DVD, Radio
-  * Canapé et fauteils
+  * Canapé et fauteuils
   * Table et chaises pour manger
   * Cheminée (insert)
 * Cuisine américaine
@@ -163,6 +163,7 @@ Sélectionner une image pour visionner la galerie...
   * Chambre double avec lit 140
   * Chambre simple avec lit 120
   * Chambre avec 2 lits en 90
+  * Ventilateur colonne présent dans chaque chambre
   * Possibilité de lit bébé
 * Salle d'eau
   * Douche, WC, lavabo
@@ -177,9 +178,8 @@ Sélectionner une image pour visionner la galerie...
   * Jardinet avec table et chaises
 * Divers
   * Jeux pour enfants, Livres
-  * Ventilateur plafond dans salon, colonne ds. chaque chambre
   * Double vitrage, chauffage électrique
-  * Accès internet wifi l’été ou avec entente préalable avec propriétaire
+  * Accès internet wifi l’été ou avec entente préalable avec les propriétaires
   * Surface habitable de 75m²
   * Non-fumeur
 
@@ -194,12 +194,12 @@ Voici le livre d'or du gite du bas...
 ## Disponibilités et prix
 
 Voir [disponibilités et prix]({{ site.baseurl }}/availability) pour ce gite ou
-[nous contacter]({{ site.baseurl }}/contacts/) avec toute question...
+[nous contacter]({{ site.baseurl }}/contacts/) pour tous renseignements complémentaires
 
 ## Gite du bas
 
 Vous pouvez également voir le [gite du bas]({{ site.baseurl }}/downstairs). Les deux
-gites pouvant être loués ensemble pour les plus grand rassemblements -
+gites pouvant être loués ensemble pour les plus grands rassemblements -
 il y a de la place en bas pour que tout le monde se réunissent et
 mangent ensemble.
  

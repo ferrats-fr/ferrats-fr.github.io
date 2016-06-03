@@ -137,7 +137,7 @@ gallery:
 {% include toc %}
 
 Le gite du bas peut accueillir 6-7 personnes, et a un très grand
-salon, énorme cuisine très bien équipé, et une grande terrasse
+salon, une cuisine spacieuse très bien équipée, et une grande terrasse
 pour manger dehors (120m2 + 15m2 de terrasse).
 
 ## Gallery
@@ -148,7 +148,7 @@ Sélectionner une image pour visionner la galerie...
 
 {% include gallery %}
 
-## Descriptif Détaillée
+## Descriptif Détaillé
 
 * Salon
   * Télé, DVD, chaine stéréo, 3 canapés
@@ -165,15 +165,15 @@ Sélectionner une image pour visionner la galerie...
 * Couchages
   * Chambre avec lit 160, ventilateur de plafond, WC indépendant
   * Chambre avec lit 140
-  * Chambre 2 lits jumelante en 80
-     (accès par chambre avec lit 140)
-  * Lit d’appoint dans salon (80x180)
+  * Chambre 2 lits jumeaux en 80
+     (accès par la chambre avec lit 140)
+  * Lit d’appoint dans le salon (80x180)
   * Possibilité de lit bébé
 * Terrasse
   * Barbecue
   * Table à manger pour 8-10 personnes
   * Vue sur maquis et mer
-  * Ombragé
+  * Ombragée
 * Buanderie (accès par l'extérieur)
   * Lave-linge, étendage
   * Douche d’été
@@ -185,12 +185,12 @@ Sélectionner une image pour visionner la galerie...
   * Jeux pour enfants, Livres
   * Ventilateurs dans chaque chambre et cuisine
   * Double vitrage, chauffage central
-  * Accès internet wifi l’été ou avec entente préalable avec propriétaire
+  * Accès internet wifi l’été ou avec entente préalable avec les propriétaires
   * Surface habitable 120 m² + 15 m² de terrasse
   * Non-fumeur (possibilité de fumer sur la terrasse)
 
 
-## Livre d'or
+## Livre d'or <a name="guestbook"></a>
 
 Voici le livre d'or du gite du bas...
 
@@ -201,11 +201,11 @@ Voici le livre d'or du gite du bas...
 ## Disponibilités et prix
 
 Voir [disponibilités et prix]({{ site.baseurl }}/availability) pour ce gite ou
-[nous contacter]({{ site.baseurl }}/contacts/) avec toute question...
+[nous contacter]({{ site.baseurl }}/contacts/) pour tous renseignements complémentaires
 
 ## Gite du haut
 
 Vous pouvez également voir le [gite du haut]({{ site.baseurl }}/upstairs). Les deux
-gites pouvant être loués ensemble pour les plus grand rassemblements -
-il y a de la place en bas pour que tout le monde se réunissent et
+gites pouvant être loués ensemble pour les plus grands rassemblements -
+il y a de la place en bas pour que tout le monde se réunissent et
 mangent ensemble.

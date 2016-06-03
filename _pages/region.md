@@ -53,11 +53,11 @@ De Brando à Olmeta di Capicorsu, on dénombre 25 plages dans le
 Cap. Les plages de sable sont concentrées près de notre maison, à
 l'est (Pietracorbara, Cagnano, Tamarone) et au nord (Barcaghju).
 
-Dans la maison se trouves un livret avec tout nos endroits préféré
+Dans la maison se trouve un livret avec tous nos endroits préférés
 du Cap - les plages, balades, restaurants, magasins et plus, et
-avec de l'information sur chaque un des activités ci-dessous... si vous
+avec de l'information sur chacune des activités ci-dessous... si vous
 louez chez nous, nous pouvons vous envoyer une copie électronique
-pour vous mettre dans l'ambiance déjà!
+pour vous mettre déjà dans l'ambiance!
 
 ## Gallerie
 
@@ -69,9 +69,9 @@ Sélectionner une image pour visionner la galerie...
 
 ## Activités proches
 
-Tout les activités sont à moins de 20 minutes de la maison:
+Toutes les activités sont à moins de 20 minutes de la maison:
 
-* A la Mer
+* De Mer
   * Plages
   * Planche à voile
   * Sorties Bateau
@@ -97,7 +97,7 @@ Tout les activités sont à moins de 20 minutes de la maison:
   * Le Moulin Mateii
   * Le Tour de Sénèque
 * Côté Pratique
-  * Tournées camion dans hameau
+  * Tournées de camion dans l'hameau
     * Boulangerie
     * Boucher
     * Epicerie
