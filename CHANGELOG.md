@@ -1,3 +1,25 @@
+## [3.2.2](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.2)
+
+### Enhancement
+
+- Add support for image captions in Magnific Popup overlays via the [`gallery`](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery) helper [#334](https://github.com/mmistakes/minimal-mistakes/issues/334)
+
+## [3.2.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.1)
+
+### Bug Fixes
+
+- Remove need for "double tapping" masthead menu links on iOS devices. [#315](https://github.com/mmistakes/minimal-mistakes/issues/315)
+
+### Maintenance
+
+- Add `ISSUE_TEMPLATE.md` for improve issue submission process.
+
+## [3.2.0](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.2.0)
+
+### Bug Fixes
+
+- Fix missing category/tag links in post footer due to possible conflict with `site.tags` and `site.categories`. [#329](https://github.com/mmistakes/minimal-mistakes/issues/329#issuecomment-222375568)
+
 ## [3.1.8](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.8)
 
 ### Bug Fixes
@@ -80,7 +102,6 @@
 ### Bug Fixes
 - Fixed Bitbucket URL typo in author sidebar.
 
->>>>>>> release/3.1.0
 ## [3.0.3](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.0.3)
 
 ### Enhancements
