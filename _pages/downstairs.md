@@ -58,60 +58,79 @@ gallery:
   - url: gite-du-bas/web/view of house.JPG
     image_path: gite-du-bas/th/view of house.JPG
     alt: "la maison"
+    title: "la maison"
   - url: gite-du-bas/web/entrance with garden.JPG
     image_path: gite-du-bas/th/entrance with garden.JPG
-    alt: "entree avec jardin"
+    alt: "jardinet avec citronnier et oranger"
+    title: "jardinet avec citronnier et oranger"
   - url: gite-du-bas/web/entrance hall.jpg
     image_path: gite-du-bas/th/entrance hall.jpg
     alt: "hall d'entree"
+    title: "hall d'entree"
   - url: gite-du-bas/web/kitchen-with-fireplace.jpg
     image_path: gite-du-bas/th/kitchen-with-fireplace.jpg
     alt: "cuisine avec cheminee"
+    title: "cuisine avec cheminee"
   - url: gite-du-bas/web/kitchen opening to terrace.jpg
     image_path: gite-du-bas/th/kitchen opening to terrace.jpg
     alt: "cuisine ouvrante sur la terrasse"
+    title: "cuisine ouvrante sur la terrasse"
   - url: gite-du-bas/web/kitchen again.JPG
     image_path: gite-du-bas/th/kitchen again.JPG
     alt: "la cuisine encore"
+    title: "la cuisine encore"
   - url: gite-du-bas/web/view from terrace.JPG
     image_path: gite-du-bas/th/view from terrace.JPG
     alt: "vue depuis la terrasse"
+    title: "vue depuis la terrasse"
   - url: gite-du-bas/web/view of terrace.JPG
     image_path: gite-du-bas/th/view of terrace.JPG
     alt: "vue de la terrasse"
+    title: "vue de la terrasse"
   - url: gite-du-bas/web/sitting room.jpg
     image_path: gite-du-bas/th/sitting room.jpg
     alt: "salon"
+    title: "salon"
   - url: gite-du-bas/web/sitting room-2.JPG
     image_path: gite-du-bas/th/sitting room-2.JPG
     alt: "salon-2"
+    title: "salon-2"
   - url: gite-du-bas/web/sitting room-3.JPG
     image_path: gite-du-bas/th/sitting room-3.JPG
     alt: "salon-3"
+    title: "salon-3"
   - url: gite-du-bas/web/parental-bedroom.JPG
     image_path: gite-du-bas/th/parental-bedroom.JPG
     alt: "chambre de maitre"
+    title: "chambre de maitre"
   - url: gite-du-bas/web/parental bedroom-2.JPG
     image_path: gite-du-bas/th/parental bedroom-2.JPG
     alt: "chambre de maitre - 2"
+    title: "chambre de maitre - 2"
   - url: gite-du-bas/web/bedroom bed-140cm.JPG
     image_path: gite-du-bas/th/bedroom bed-140cm.JPG
     alt: "chambre avec lit 140cm"
+    title: "chambre avec lit 140cm"
   - url: gite-du-bas/web/bedroom - twin 80cm beds.JPG
     image_path: gite-du-bas/th/bedroom - twin 80cm beds.JPG
     alt: "chambre avec lits jumeaux 80cm"
+    title: "chambre avec lits jumeaux 80cm"
   - url: gite-du-bas/web/bedrooms.JPG
     image_path: gite-du-bas/th/bedrooms.JPG
     alt: "chambres"
+    title: "chambres"
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
-    alt: "tours geneoises"
+    alt: "tour geneoise"
+    title: "Tour Geneoise"
   - url: gite-du-bas/web/Seneque Tower.JPG
     image_path: gite-du-bas/th/Seneque Tower.JPG
     alt: "Tour de Seneque"
+    title: "Tour de Seneque"
   - url: gite-du-bas/web/Tamarone beach.jpg
     image_path: gite-du-bas/th/Tamarone beach.jpg
     alt: "Plage de Tamarone"
+    title: "Plage de Tamarone"
   
 ---
 
@@ -171,7 +190,7 @@ Sélectionner une image pour visionner la galerie...
   * Non-fumeur (possibilité de fumer sur la terrasse)
 
 
-## Livre d'or <a name="guestbook"></a>
+## Livre d'or
 
 Voici le livre d'or du gite du bas...
 
