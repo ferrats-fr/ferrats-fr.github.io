@@ -59,6 +59,10 @@ gallery:
     image_path: gite-du-bas/th/view of house.JPG
     alt: "view of house"
     title: "view of house"
+  - url: gite-du-bas/web/view of terrace.JPG
+    image_path: gite-du-bas/th/view of terrace.JPG
+    alt: "view of terrace"
+    title: "view of terrace"
   - url: gite-du-bas/web/entrance with garden.JPG
     image_path: gite-du-bas/th/entrance with garden.JPG
     alt: "entrance with garden"
@@ -83,18 +87,18 @@ gallery:
     image_path: gite-du-bas/th/view from terrace.JPG
     alt: "view from terrace"
     title: "view from terrace"
-  - url: gite-du-bas/web/view of terrace.JPG
-    image_path: gite-du-bas/th/view of terrace.JPG
-    alt: "view of terrace"
-    title: "view of terrace"
-  - url: gite-du-bas/web/sunrise from terrace.JPG
-    image_path: gite-du-bas/th/sunrise from terrace.JPG 
-    alt: "sunrise from the terrace" 
-    title: "sunrise from the terrace" 
+  - url: gite-du-bas/web/view-terrace-end.JPG
+    image_path: gite-du-bas/th/view-terrace-end.JPG
+    alt: "view to right of terrace"
+    title: "view to right of terrace"
   - url: gite-du-bas/web/terrace with bbq.JPG 
     image_path: gite-du-bas/th/terrace with bbq.JPG 
     alt: "terrace with barbecue" 
     text: "terrace with barbecue" 
+  - url: gite-du-bas/web/sunrise from terrace.JPG
+    image_path: gite-du-bas/th/sunrise from terrace.JPG 
+    alt: "sunrise from the terrace" 
+    title: "sunrise from the terrace" 
   - url: gite-du-bas/web/sitting room.jpg
     image_path: gite-du-bas/th/sitting room.jpg
     alt: "sitting room"
@@ -123,10 +127,14 @@ gallery:
     image_path: gite-du-bas/th/bedroom - twin 80cm beds.JPG
     alt: "bedroom - twin 80cm beds"
     title: "bedroom - twin 80cm beds"
-  - url: gite-du-bas/web/bedrooms.JPG
-    image_path: gite-du-bas/th/bedrooms.JPG
-    alt: "bedrooms"
-    title: "bedrooms"
+  - url: gite-du-bas/web/salle d'eau.JPG
+    image_path: gite-du-bas/th/salle d'eau.JPG
+    alt: "bathroom"
+    title: "bathroom"
+  - url: gite-du-bas/web/village.JPG
+    image_path: gite-du-bas/th/village.JPG
+    alt: "Suare village"
+    title: "Suare village - our house is in the middle with the green shutters"
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
     alt: "geneois towers"

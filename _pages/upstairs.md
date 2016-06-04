@@ -109,14 +109,18 @@ gallery:
     image_path: gite-du-haut/th/twin bedroom.JPG
     alt: "twin bedroom"
     title: "twin bedroom"
-  - url: gite-du-haut/web/bathroom sink.JPG
-    image_path: gite-du-haut/th/bathroom sink.JPG
+  - url: gite-du-haut/web/bathroom.JPG
+    image_path: gite-du-haut/th/bathroom.JPG
     alt: "bathroom"
     title: "bathroom"
   - url: gite-du-haut/web/bathroom with igloo shower.JPG
     image_path: gite-du-haut/th/bathroom with igloo shower.JPG
     alt: "bathroom with igloo shower"
     title: "bathroom with igloo shower"
+  - url: gite-du-haut/web/village.JPG
+    image_path: gite-du-haut/th/village.JPG
+    alt: "Suare village"
+    title: "Suare village, Casa Albore is in the middle, with green shutters"
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
     alt: "geneois towers"
