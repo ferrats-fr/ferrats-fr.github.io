@@ -91,10 +91,10 @@ gallery:
     image_path: gite-du-bas/th/view-terrace-end.JPG
     alt: "view to right of terrace"
     title: "view to right of terrace"
-  - url: gite-du-bas/web/terrace with bbq.JPG 
-    image_path: gite-du-bas/th/terrace with bbq.JPG 
-    alt: "terrace with barbecue" 
-    text: "terrace with barbecue" 
+  - url: gite-du-bas/web/terrace with bbq.JPG
+    image_path: gite-du-bas/th/terrace with bbq.JPG
+    alt: "terrace with barbecue"
+    title: "terrace with barbecue"
   - url: gite-du-bas/web/sunrise from terrace.JPG
     image_path: gite-du-bas/th/sunrise from terrace.JPG 
     alt: "sunrise from the terrace" 
