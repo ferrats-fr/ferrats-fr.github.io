@@ -7,7 +7,7 @@ header_text: Nous contacter
   
 ---
 
-N’hésitez pas à appeler [Joss or Nick]({{ site.baseurl }}/about/) ou Mme. Savoldelli qui s’occupe de la maison quand nous n’y sommes pas, ou nous contacter par email pour tous renseignements complémentaires
+N’hésitez pas à appeler [Joss ou Nick]({{ site.baseurl }}/about/) ou Mme. Savoldelli qui s’occupe de la maison quand nous n’y sommes pas, ou nous contacter par email pour tous renseignements complémentaires
 
 | **Email** | [casa.albore@free.fr](mailto:casa.albore@free.fr) |
 | **Telephone**    |  [Joss]({{ site.baseurl }}/about/)   | [+33 (0)6.79.26.22.92](tel:+33679262292) |

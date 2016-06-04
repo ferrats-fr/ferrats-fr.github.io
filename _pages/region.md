@@ -69,7 +69,9 @@ Sélectionner une image pour visionner la galerie...
 
 ## Activités proches
 
-Toutes les activités sont à moins de 20 minutes de la maison:
+Toutes les activités sont à moins de 20 minutes de la maison, vous
+pouvez consulter la [carte interactive](#carte-interactive) pour voir
+l'emplacement de certaines d'entre elle.
 
 * De Mer
   * Plages
