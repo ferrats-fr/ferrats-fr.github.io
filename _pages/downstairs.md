@@ -59,6 +59,10 @@ gallery:
     image_path: gite-du-bas/th/view of house.JPG
     alt: "la maison"
     title: "la maison"
+  - url: gite-du-bas/web/view of terrace.JPG
+    image_path: gite-du-bas/th/view of terrace.JPG
+    alt: "la terrasse terrace"
+    title: "la terrasse"
   - url: gite-du-bas/web/entrance with garden.JPG
     image_path: gite-du-bas/th/entrance with garden.JPG
     alt: "jardinet avec citronnier et oranger"
@@ -83,18 +87,18 @@ gallery:
     image_path: gite-du-bas/th/view from terrace.JPG
     alt: "vue depuis la terrasse"
     title: "vue depuis la terrasse"
-  - url: gite-du-bas/web/view of terrace.JPG
-    image_path: gite-du-bas/th/view of terrace.JPG
-    alt: "vue de la terrasse"
-    title: "vue de la terrasse"
+  - url: gite-du-bas/web/view-terrace-end.JPG
+    image_path: gite-du-bas/th/view-terrace-end.JPG
+    alt: "vue depuis la terrasse - a droit"
+    title: "vue depuis la terrasse - a droit"
+  - url: gite-du-bas/web/terrace with bbq.JPG 
+    image_path: gite-du-bas/th/terrace with bbq.JPG 
+    alt: "terrasse avec barbeque" 
+    text: "terrasse avec barbeque" 
   - url: gite-du-bas/web/sunrise from terrace.JPG
     image_path: gite-du-bas/th/sunrise from terrace.JPG 
     alt: "levé du soleil de la terrasse" 
     title: "levé du soleil de la terrasse" 
-  - url: gite-du-bas/web/terrace with bbq.JPG 
-    image_path: gite-du-bas/th/terrace with bbq.JPG 
-    alt: "terrasse avec barbeque" 
-    title: "terrasse avec barbeque" 
   - url: gite-du-bas/web/sitting room.jpg
     image_path: gite-du-bas/th/sitting room.jpg
     alt: "salon"
@@ -127,10 +131,19 @@ gallery:
     image_path: gite-du-bas/th/bedrooms.JPG
     alt: "chambres"
     title: "chambres"
+  - url: gite-du-bas/web/salle d'eau.JPG
+    image_path: gite-du-bas/th/salle d'eau.JPG
+    alt: "salle d'eau"
+    title: "salle d'eau"
+  - url: gite-du-bas/web/village.JPG
+    image_path: gite-du-bas/th/village.JPG
+    alt: "Hameau de Suare"
+    title: "Hameau de Suare, Casa Albore est au milieu, avec les
+    volets verts"
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
-    alt: "tour geneoise"
-    title: "Tour Geneoise"
+    alt: "tour geneois"
+    title: "Tour Geneois"
   - url: gite-du-bas/web/Seneque Tower.JPG
     image_path: gite-du-bas/th/Seneque Tower.JPG
     alt: "Tour de Seneque"

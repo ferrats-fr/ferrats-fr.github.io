@@ -109,14 +109,19 @@ gallery:
     image_path: gite-du-haut/th/twin bedroom.JPG
     alt: "chambre avec lits jumeaux 80cm"
     title: "chambre avec lits jumeaux 80cm"
-  - url: gite-du-haut/web/bathroom sink.JPG
-    image_path: gite-du-haut/th/bathroom sink.JPG
+  - url: gite-du-haut/web/bathroom.JPG
+    image_path: gite-du-haut/th/bathroom.JPG
     alt: "salle d'eau"
     title: "salle d'eau"
   - url: gite-du-haut/web/bathroom with igloo shower.JPG
     image_path: gite-du-haut/th/bathroom with igloo shower.JPG
     alt: "salle d'eau avec douche 'igloo'"
     title: "salle d'eau avec douche 'igloo'"
+  - url: gite-du-haut/web/village.JPG
+    image_path: gite-du-haut/th/village.JPG
+    alt: "Hameau de Suare"
+    title: "Hameau de Suare, Casa Albore est au milieu, avec les
+    volets verts."
   - url: gite-du-bas/web/geneois towers.JPG
     image_path: gite-du-bas/th/geneois towers.JPG
     alt: "Tour de Losso"
