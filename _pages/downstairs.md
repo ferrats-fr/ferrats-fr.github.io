@@ -89,8 +89,8 @@ gallery:
     title: "vue depuis la terrasse"
   - url: gite-du-bas/web/view-terrace-end.JPG
     image_path: gite-du-bas/th/view-terrace-end.JPG
-    alt: "vue depuis la terrasse - a droit"
-    title: "vue depuis la terrasse - a droit"
+    alt: "vue depuis la terrasse - à droite"
+    title: "vue depuis la terrasse - à droite"
   - url: gite-du-bas/web/terrace with bbq.JPG 
     image_path: gite-du-bas/th/terrace with bbq.JPG 
     alt: "terrasse avec barbeque" 
