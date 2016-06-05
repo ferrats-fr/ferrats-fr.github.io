@@ -32,5 +32,38 @@ en-US:
 en-UK:
   <<: *DEFAULT_EN
 
+# French
+# -----------------
+fr: &DEFAULT_FR
+  page                  : "Page"
+  pagination_previous   : "Précedent
+  pagination_next       : "Suivant"
+  breadcrumb_home_label : "Accueil"
+  breadcrumb_separator  : "/"
+  toc_label             : "Sur ce Page"
+  ext_link_label        : "Lien directe"
+  less_than             : "moins que"
+  minute_read           : "minute de lecture"
+  minutes_read          : "minutes de lecture"
+  share_on_label        : "Partager avec"
+  meta_label            :
+  tags_label            : "Tags:"
+  categories_label      : "Categories:"
+  date_label            : "Mis a jour:"
+  comments_label        : "Laisser un commentaire"
+  more_label            : "Plus d'infos"
+  related_label         : "Vous pouvez aussi aimer"
+  follow_label          : "Suivre:"
+  feed_label            : "Feed"
+  powered_by            : "Powered by"
+  website_label         : "Site web"
+  email_label           : "Email"
+  recent_posts          : "Postes récentes"
+fr-FR:
+  <<: *DEFAULT_FR
+fr-CA:
+  <<: *DEFAULT_FR
+
 # Another locale
 # --------------
+
