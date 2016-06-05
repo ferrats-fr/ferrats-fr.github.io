@@ -23,7 +23,7 @@ comments:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                : "809039575892744"
+    appid                : 809039575892744
     num_posts            : 5 # (default)
     colorscheme          : "light" # (default), "dark"
 
@@ -67,6 +67,7 @@ defaults:
     values: 
       layout: single
       author_profile: false
+      comments: true
 
 # Site Author
 author:
