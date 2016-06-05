@@ -127,10 +127,6 @@ gallery:
     image_path: gite-du-bas/th/bedroom - twin 80cm beds.JPG
     alt: "chambre avec lits jumeaux 80cm"
     title: "chambre avec lits jumeaux 80cm"
-  - url: gite-du-bas/web/bedrooms.JPG
-    image_path: gite-du-bas/th/bedrooms.JPG
-    alt: "chambres"
-    title: "chambres"
   - url: gite-du-bas/web/salle d'eau.JPG
     image_path: gite-du-bas/th/salle d'eau.JPG
     alt: "salle d'eau"
