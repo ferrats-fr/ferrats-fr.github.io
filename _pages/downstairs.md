@@ -152,13 +152,13 @@ gallery:
 
 {% include toc %}
 
-The downstairs gite can sleep 6-7 people and has a very large
-living room, huge fully equipped kitchen, and a big terrace
-(approx 1200 sq. ft + terrace)
+The downstairs gite can sleep 6-7 people and has a very large living
+room, huge fully equipped kitchen, and a big terrace (approx 1200
+sq. ft + terrace) looking out over the maquis to the sea.
 
 ## Gallery
 
-Please click on a photo to visit
+Please click on a photo to visit:
 
 {% include base_path %}
 
