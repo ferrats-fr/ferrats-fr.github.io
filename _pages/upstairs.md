@@ -197,3 +197,6 @@ Please see the [availability and pricing]({{ base_path }}/availability) for this
 
 You may also wish to see the [downstairs gite]({{ base_path }}/downstairs). The two gites can be reunited for larger groups, with sleeping for up to 12 - there is room in the downstairs gite for everyone to eat together.
 
+## Cap Corsica
+
+To see more of the region, please visit our page on [Cap Corsica]({{ base_path }}/region).
