@@ -36,7 +36,7 @@ en-UK:
 # -----------------
 fr: &DEFAULT_FR
   page                  : "Page"
-  pagination_previous   : "Précedent
+  pagination_previous   : "Précedent"
   pagination_next       : "Suivant"
   breadcrumb_home_label : "Accueil"
   breadcrumb_separator  : "/"
