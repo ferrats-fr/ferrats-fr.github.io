@@ -226,3 +226,9 @@ Vous pouvez également voir le [gite du haut]({{ site.baseurl }}/upstairs). Les 
 gites pouvant être loués ensemble pour les plus grands rassemblements -
 il y a de la place en bas pour que tout le monde se réunissent et
 mangent ensemble.
+
+## Cap Corse
+
+Pour avoir plus d'informations sur la region, vous pouvez consulter
+notre page sur [Cap Corse]({{ site.baseurl }}/region).
+
