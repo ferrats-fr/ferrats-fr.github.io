@@ -18,14 +18,14 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "facebook", "google-plus", custom"
+  provider               : facebook # false (default), "disqus", "facebook", "google-plus", custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid                : 809039575892744
+    num_posts            : 5 # (default)
+    colorscheme          : "light" # (default), "dark"
 
 # SEO Related
 google_site_verification :
@@ -67,6 +67,7 @@ defaults:
     values: 
       layout: single
       author_profile: false
+      comments: true
 
 # Site Author
 author:
