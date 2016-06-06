@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+share: true
 date:
 header:
   overlay_color: "#5e616c"
