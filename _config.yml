@@ -69,6 +69,11 @@ defaults:
       author_profile: false
       comments: true
       share: true
+  - scope: 
+      path: ""
+      type: splash
+    values: 
+      share: true
 
 # Site Author
 author:
