@@ -9,12 +9,12 @@ calendar: true
 
 ## Prix
 
-|                            |           | **Juin/Sept** | **Juil-Aout** | **Vacances** | **Bas Saison** |
+|                            |           | **juin/sept** | **juil-aout** | **Vacances** | **Bas Saison** |
 |--------------|------|----------:|-------------:|-------------:|--------------:|
 | **[Gite du Bas]({{ site.baseurl }}/downstairs)**   | 6-7 pl | 550             | 800                   | 500                  | 400                   |
 | **[Gite du Haut]({{ site.baseurl }}/upstairs)** | 5 pl    | 450             | 650                   | 400                  | 350                   |
 
-Tout prix est en euro et par semaine. Les locations pour Juillet et Août sont de samedi
+Tout prix est en euro et par semaine. Les locations pour juillet et août sont de samedi
 en samedi, autrement  le séjour minimum est de 4 nuits (tarif au pro-rata)
 
 Les livres d'or des gites sont visibles pour chaque gite: [Gite du Bas]({{ site.baseurl }}/downstairs#livre-dor) ou [Gite du Haut]({{ site.baseurl }}/upstairs#livre-dor)
