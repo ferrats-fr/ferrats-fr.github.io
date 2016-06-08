@@ -33,13 +33,22 @@ airport or the ferry terminal. Try to reserve travel in advance to get cheaper p
 
 You can travel from south France or from Italy by ferry with one of:
 [Corsica linea](http://www.corsicalinea.com/),
-[Corsica Ferries](https://www.corsica-ferries.co.uk/) or
+[Corsica Ferries](http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001) or
 [MobyLines](http://www.mobylines.com/).
 
 We typically travel with
-[Corsica Ferries](https://www.corsica-ferries.co.uk/) from Toulon
+[Corsica Ferries](http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001) from Toulon
 (overnight) or Nice (daytime) to Bastia, it's reliable, comfortable,
 and typically cheaper than the other choices available!
+
+We get a small commission if you book Corsica Ferries through this
+link:
+
+<a
+href='http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001'><img
+src='http://affiliation.corsicaferries.com/WebAffiliation/_Menu/Images/ban/corsica_v1_120x60.gif'
+border='0'/></a>
+
 
 ## Casa Albore
 
