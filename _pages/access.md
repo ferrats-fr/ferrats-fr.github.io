@@ -24,13 +24,21 @@ Vous aurez vraissemblablement besoin d'une voiture - il est possible de les loue
 ### Ferries
 
 [Corsica linea](http://www.corsicalinea.com/),
-[Corsica Ferries](https://www.corsica-ferries.co.uk/) ou
+[Corsica Ferries](http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001) ou 
 [MobyLines](http://www.mobylines.com/).
 
 En générale nous voyageons avec
-[Corsica Ferries](https://www.corsica-ferries.co.uk/) entre Toulon
+[Corsica Ferries](http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001) entre Toulon
 (de nuit) ou Nice (de jour) et Bastia - c'est fiable, comfortable
 et à notre expèrience, moins cher que les autres.
+
+Si vous réservez à travers ce lien ils nous versent un petit commission:
+
+<a
+href='http://www.corsicaferries.com/Pcorsica.srv?COM00MIT=N&REF00LIN=FR&AGE00IDE=055769001'><img
+src='http://affiliation.corsicaferries.com/WebAffiliation/_Menu/Images/ban/corsica_v1_120x60.gif'
+border='0'/></a>
+
 
 ## Casa Albore
 
