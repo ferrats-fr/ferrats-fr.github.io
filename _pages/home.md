@@ -9,7 +9,9 @@ header:
   cta_label: "<i class='fa fa-calendar-check-o'></i>Disponibilités"
   cta_url: "/availability/"
   caption:
-excerpt: 'Bienvenue &agrave; Casa Albore, une grande maison de village rénovée avec amour par un ébéniste ... anciens murs, terre cuite, poutres apparentes, plans de travail en marbre, plein de niches, etc, entourée par la nature, avec vue sur mer et maquis, avec l’ile de Capraia en face.'
+excerpt: 'Bienvenue &agrave; Casa Albore, une grande maison de village
+dans le Cap Corse, rénovée avec amour par un ébéniste ... anciens
+murs, terre cuite, poutres apparentes, plein de niches, etc, entourée par la nature, avec vue sur mer et maquis, avec l’ile de Capraia en face.'
 feature_row:
   - image_path: downstairs-entrance.jpg
     alt: "Entree Principal"
