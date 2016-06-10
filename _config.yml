@@ -78,7 +78,7 @@ defaults:
 # Site Author
 author:
   name             : "Nick Stephen"
-  avatar           : "passport.gif"
+  avatar           : 
   bio              : ""
   location         : "The french alps"
   email            :

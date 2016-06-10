@@ -7,7 +7,7 @@ header_text: Nous
   
 ---
 
-![Nous]({{ base_path }}/images/nous.png)
+![Nous]({{ base_path }}/images/front/web/nous.png)
 
 Nous sommes une famille anglo-corse, habitant dans les alpes avec
 trois enfants, l'ainé a 16 ans et les jumeaux ont 13 ans (âges en 2016).
