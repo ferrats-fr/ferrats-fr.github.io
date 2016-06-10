@@ -7,7 +7,7 @@ header_text: About us
   
 ---
 
-![Nous]({{ base_path }}/images/front/web/nous.png)
+![Nous]({{ base_path }}/images/front/web/nous.jpg)
 
 We’re an anglo-corsican family, living in the French alps, with three
 children, the first aged 16, and 13 year old twins (in 2016).
