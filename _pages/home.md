@@ -5,7 +5,7 @@ share: true
 date:
 header:
   overlay_color: "#5e616c"
-  overlay_image: front/web/view from terrace.JPG
+  overlay_image: front/view from terrace.JPG
   cta_label: "<i class='fa fa-calendar-check-o'></i>Disponibilités"
   cta_url: "/availability/"
   caption:
