@@ -11,7 +11,8 @@ header:
   caption:
 excerpt: 'Bienvenue &agrave; Casa Albore, deux gites dans une grande maison de village
 dans le Cap Corse, rénovée avec amour par un ébéniste ... anciens
-murs, terre cuite, poutres apparentes, plein de niches, etc, entourée par la nature, avec vue sur mer et maquis, avec l’ile de Capraia en face.'
+murs, terre cuite, poutres apparentes entourée par la nature, avec vue
+sur maquis et mer.'
 feature_row:
   - image_path: front/web/downstairs-entrance.jpg
     alt: "Entree Principal"
