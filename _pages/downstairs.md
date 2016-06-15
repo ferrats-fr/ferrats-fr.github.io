@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Gite du Bas
+title: Downstairs Gite
 permalink: /downstairs/
 type: info
 header_text: Downstairs Gite
