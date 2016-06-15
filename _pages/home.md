@@ -9,7 +9,7 @@ header:
   cta_label: "<i class='fa fa-calendar-check-o'></i>Availability"
   cta_url: "/availability/"
   caption:
-excerpt: 'Welcome to Casa Albore, our traditional stone house in Cap Corsica, with a view over the maquis to the sea, with the isle of Capraia on the horizon.'
+excerpt: 'Welcome to Casa Albore, our rental property, a traditional stone house in Cap Corsica, with a view over the maquis to the sea, and the isle of Capraia on the horizon.'
 
 feature_row:
   - image_path: front/web/downstairs-entrance.jpg
