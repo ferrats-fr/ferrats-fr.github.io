@@ -26,7 +26,7 @@ aussi une grande terrasse"
     title: "Gite du haut"
     excerpt: "Avec la place pour 5 personnes, le gite du haut a un access independent et un grand salon"
     url: "/upstairs/"
-    btn_label: "Visiter le Gite du Haut"
+    btn_label: "Visiter le gite du haut"
   - image_path: front/web/tamarone.jpg
     alt: "cap corse"
     title: "Cap Corse"
