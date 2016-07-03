@@ -6,8 +6,8 @@ date:
 header:
   overlay_color: "#5e616c"
   overlay_image: front/view from terrace.JPG
-  cta_label: "<i class='fa fa-calendar-check-o'></i>Disponibilités"
-  cta_url: "/availability/"
+  cta_label: "<i class='fa fa-language'></i>English"
+  cta_url: "http://en.casa.albore.fr"
   caption:
 excerpt: 'Bienvenue &agrave; Casa Albore, deux gites dans une grande maison de village
 dans le Cap Corse, rénovée avec amour par un ébéniste ... anciens
