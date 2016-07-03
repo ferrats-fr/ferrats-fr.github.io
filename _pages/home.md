@@ -6,8 +6,8 @@ date:
 header:
   overlay_color: "#5e616c"
   overlay_image: front/view from terrace.JPG
-  cta_label: "<i class='fa fa-calendar-check-o'></i>Availability"
-  cta_url: "/availability/"
+  cta_label: "<i class='fa fa-language'></i>Français"
+  cta_url: "http://casa.albore.fr"
   caption:
 excerpt: 'Welcome to Casa Albore, our rental property, a traditional stone house in Cap Corsica, with a view over the maquis to the sea, and the isle of Capraia on the horizon.'
 
