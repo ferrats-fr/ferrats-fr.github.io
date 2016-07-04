@@ -1,10 +1,10 @@
 This repository contains the website for our gite:
 
-    [http://casa.albore.fr](http://casa.albore.fr)
+- http://casa.albore.fr
 
 The UI theme is derived from :
 
-    [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/)
+- https://mmistakes.github.io/minimal-mistakes/
 
 ---
 
