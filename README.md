@@ -1,10 +1,10 @@
 This repository contains the website for our gite:
 
-    http://casa.albore.fr
+    [http://casa.albore.fr](http://casa.albore.fr)
 
 The UI theme is derived from :
 
-    https://mmistakes.github.io/minimal-mistakes/
+    [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/)
 
 ---
 
@@ -21,7 +21,7 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
+ 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
