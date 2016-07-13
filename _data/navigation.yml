@@ -24,4 +24,31 @@ main:
 
   - title: "Francais"
     url: http://casa.albore.fr
-    
+
+
+# sidebar links
+links:
+  - title: Visit
+    children:
+      - title: "Downstairs Gite"
+        url: /downstairs
+      - title: "Upstairs Gite"
+        url: /upstairs
+      - title: "Cap Corsica"
+        url: /region
+
+  - title: Details
+    children:
+      - title: "Availability"
+        url: /availability/
+      - title: "Contacts"
+        url: /contacts/
+      - title: "About us"
+        url: /about/
+      - title: "Getting There"
+        url: /access/
+
+  - title: Other Languages
+    children:
+      - title: "Français"
+        url: http://casa.albore.fr
