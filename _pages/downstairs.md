@@ -7,6 +7,20 @@ header_text: Downstairs Gite
 gallery_livre:
   - url: livret-bas/web/cover.jpg
     image_path: livret-bas/th/cover.jpg
+  - url: livret-bas/web/29.jpg
+    image_path: livret-bas/th/29.jpg
+  - url: livret-bas/web/28.jpg
+    image_path: livret-bas/th/28.jpg
+  - url: livret-bas/web/27.jpg
+    image_path: livret-bas/th/27.jpg
+  - url: livret-bas/web/26.jpg
+    image_path: livret-bas/th/26.jpg
+  - url: livret-bas/web/25.jpg
+    image_path: livret-bas/th/25.jpg
+  - url: livret-bas/web/24.jpg
+    image_path: livret-bas/th/24.jpg
+  - url: livret-bas/web/23.jpg
+    image_path: livret-bas/th/23.jpg
   - url: livret-bas/web/22.jpg
     image_path: livret-bas/th/22.jpg
   - url: livret-bas/web/21.jpg
