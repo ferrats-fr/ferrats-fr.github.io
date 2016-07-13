@@ -24,3 +24,30 @@ main:
 
   - title: "<ul>English</ul>"
     url: http://en.casa.albore.fr/
+
+# sidebar links
+links:
+  - title: Visiter
+    children:
+      - title: "Gite du Bas"
+        url: /downstairs
+      - title: "Gite du Haut"
+        url: /upstairs
+      - title: "Cap Corse"
+        url: /region
+
+  - title: Details
+    children:
+      - title: "Disponibilités"
+        url: /availability/
+      - title: "Contact"
+        url: /contacts/
+      - title: "Nous"
+        url: /about/
+      - title: "Indications"
+        url: /access/
+
+  - title: Autres Langues
+    children:
+      - title: "English"
+        url: http://en.casa.albore.fr

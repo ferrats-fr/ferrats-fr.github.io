@@ -67,6 +67,9 @@ defaults:
       layout: single
       author_profile: false
       comments: true
+      share: true
+      sidebar:
+        nav: "links"
 
 # Site Author
 author:
