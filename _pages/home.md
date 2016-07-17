@@ -24,13 +24,13 @@ aussi une grande terrasse"
   - image_path: front/web/upstairs-splash.jpg
     alt: "gite du haut"
     title: "Gite du haut"
-    excerpt: "Avec la place pour 5 personnes, le gite du haut a un access independent et un grand salon"
+    excerpt: "Avec la place pour 5 personnes, le gite du haut a un access independant et un grand salon"
     url: "/upstairs/"
     btn_label: "Visiter le gite du haut"
   - image_path: front/web/tamarone.jpg
     alt: "cap corse"
     title: "Cap Corse"
-    excerpt: "Le Cap Corse est une des régions les plus sauvages et moins peuplée de toute l'île de Beauté."
+    excerpt: "Le Cap Corse est une des régions les plus sauvages et la moins peuplée de toute l'île de Beauté."
     url: "/region/"
     btn_label: "Visiter Cap Corse"
 
