@@ -1,6 +1,6 @@
-This repository contains the website for our gite:
+This repository contains the website for our home in Les Ferrats
 
-- http://casa.albore.fr
+- http://en.ferrats.albore.fr
 
 The UI theme is derived from :
 

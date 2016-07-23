@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Cap Corsica
+title: The Region
 permalink: /region/
 type: info
-header_text: Cap Corsica
+header_text: The Region
 gallery:
   - url: region/web/0.jpg
     image_path: region/th/0.jpg

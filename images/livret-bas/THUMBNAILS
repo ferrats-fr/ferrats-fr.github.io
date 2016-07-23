@@ -1,6 +1,0 @@
-#!/bin/sh
-
-mkdir th
-rm th/* 
-mogrify  -define jpeg:size=500x180 -auto-orient  -thumbnail 250x90 -unsharp 0x.5 -path th  * 
-

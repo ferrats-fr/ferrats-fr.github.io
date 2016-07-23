@@ -1,16 +1,13 @@
 # main links links
 main:
 
-  - title: "Downstairs"
+  - title: "The House"
     url: /downstairs/
 
   - title: "Upstairs"
     url: /upstairs/
 
-  - title: "Availability"
-    url: /availability/
-
-  - title: "Cap Corsica"
+  - title: "The Region"
     url: /region/
 
   - title: "About us"
@@ -23,24 +20,22 @@ main:
     url: /access/
 
   - title: "Francais"
-    url: http://casa.albore.fr
+    url: http://ferrats.albore.fr
 
 
 # sidebar links
 links:
   - title: Visit
     children:
-      - title: "Downstairs Gite"
+      - title: "The House"
         url: /downstairs
-      - title: "Upstairs Gite"
+      - title: "Upstairs"
         url: /upstairs
-      - title: "Cap Corsica"
+      - title: "The Region"
         url: /region
 
   - title: Details
     children:
-      - title: "Availability"
-        url: /availability/
       - title: "Contacts"
         url: /contacts/
       - title: "About us"
@@ -51,4 +46,4 @@ links:
   - title: Other Languages
     children:
       - title: "Français"
-        url: http://casa.albore.fr
+        url: http://ferrats.albore.fr

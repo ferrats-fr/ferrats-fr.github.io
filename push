@@ -2,3 +2,4 @@
 
 git push en en:master
 git push fr fr:master
+git push ferrats-en ferrats-en:master

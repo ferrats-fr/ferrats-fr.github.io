@@ -5,43 +5,38 @@ share: true
 date:
 header:
   overlay_color: "#5e616c"
-  overlay_image: front/view from terrace.JPG
+  overlay_image: front/belledonne.jpg
   cta_label: "<i class='fa fa-language'></i>Français"
-  cta_url: "http://casa.albore.fr"
+  cta_url: "http://ferrats.albore.fr"
   caption:
-excerpt: 'Welcome to Casa Albore, our rental property, a traditional stone house in Cap Corsica, with a view over the maquis to the sea, and the isle of Capraia on the horizon.'
+excerpt: 'Welcome to our home in Les Ferrats, a house in the mountains
+with massive garden looking out over the forest to the Belledonne
+mountain range, 20 minutes from skiing, and 30 minutes from Grenoble'
 
 feature_row:
-  - image_path: front/web/downstairs-entrance.jpg
-    alt: "downstairs entrance"
-    title: "Downstairs Gite"
-    excerpt: "With ample room for 6-7 people, the downstairs gite comes with plenty of space and a large terrace"
+  - image_path: front/downstairs.jpg
+    alt: "living room"
+    title: "Our Home"
+    excerpt: "Our home has plenty of room for between 4 and 7 people
+    and is 20 minutes from Chamrousse ski station"
     url: "/downstairs/"
-    btn_label: "Visit downstairs"
-  - image_path: front/web/upstairs-splash.jpg
-    alt: "upstairs gite"
-    title: "Upstairs Gite"
-    excerpt: "Sleeping 5 comfortably, the upstairs gite has an independent entrance and large living room"
+    btn_label: "Visit our home"
+  - image_path: front/upstairs.jpg
+    alt: "upstairs"
+    title: "Upstairs"
+    excerpt: "The upstairs part of our home is available when we do home exchanges"
     url: "/upstairs/"
     btn_label: "Visit upstairs"
-  - image_path: front/web/tamarone.jpg
-    alt: "cap corsica"
-    title: "Cap Corsica"
-    excerpt: "Cap Corse is one of the most unspoiled regions of the whole Isle of Beauty."
+  - image_path: front/belledonne.jpg
+    alt: "the region"
+    title: "The Region"
+    excerpt: "The Belledonne mountain range is noted for the spectacular scenery, numerous ski areas, interesting geology, and a diverse range of alpine land types"
     url: "/region/"
-    btn_label: "Visit Cap Corsica"
+    btn_label: "Visit the Region"
 
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-
-Gite de Casa Albore, Suare, 20228 Cagnano -
-email: <a href="mailto:casa.albore@free.fr">casa.albore@free.fr</a> - 
-tel.
-<a href="tel:+33679262292">06.79.26.22.92</a> -
-<a href="tel:+33495574163">04.95.57.41.63</a>
-
 
