@@ -66,7 +66,6 @@ gallery:
   - url: downstairs/web/29.jpg
     image_path: downstairs/th/29.jpg
   
-  
 ---
 
 {% include toc %}
@@ -140,4 +139,3 @@ exchanges.
 
 To see more of the region, please visit our page on [local things to
 see and do]({{ base_path }}/region).
-

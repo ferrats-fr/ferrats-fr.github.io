@@ -1,22 +1,21 @@
 # main links links
 main:
-
   - title: "The House"
     url: /downstairs/
 
-  - title: "Upstairs"
+  - title: "Gite du haut"
     url: /upstairs/
 
   - title: "The Region"
     url: /region/
 
-  - title: "About us"
+  - title: "Nous"
     url: /about/
 
-  - title: "Contacts"
+  - title: "Contact"
     url: /contacts/
 
-  - title: "Getting There"
+  - title: "Indications"
     url: /access/
 
   - title: "Francais"

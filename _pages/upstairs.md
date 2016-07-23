@@ -47,6 +47,8 @@ exchange.
 
 Please click on a photo to visit upstairs.
 
+Sélectionner une image pour visionner la galerie...
+ 
 {% include base_path %}
 
 {% include gallery %}

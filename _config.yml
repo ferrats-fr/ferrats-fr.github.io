@@ -56,7 +56,6 @@ analytics:
   google:
     tracking_id          : UA-30201421-3
 
-
 # Google AdSense
 google_ad_client         :
 google_ad_slot           :

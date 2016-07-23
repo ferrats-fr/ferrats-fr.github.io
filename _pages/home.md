@@ -1,4 +1,4 @@
----
+<<---
 layout: splash
 permalink: /
 share: true
@@ -33,7 +33,6 @@ feature_row:
     excerpt: "The Belledonne mountain range is noted for the spectacular scenery, numerous ski areas, interesting geology, and a diverse range of alpine land types"
     url: "/region/"
     btn_label: "Visit the Region"
-
 ---
 
 {% include feature_row id="intro" type="center" %}
