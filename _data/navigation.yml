@@ -3,19 +3,19 @@ main:
   - title: "The House"
     url: /downstairs/
 
-  - title: "Gite du haut"
+  - title: "Upstairs"
     url: /upstairs/
 
   - title: "The Region"
     url: /region/
 
-  - title: "Nous"
+  - title: "About us"
     url: /about/
 
   - title: "Contact"
     url: /contacts/
 
-  - title: "Indications"
+  - title: "Directions"
     url: /access/
 
   - title: "Francais"
