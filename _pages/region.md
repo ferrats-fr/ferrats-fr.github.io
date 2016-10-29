@@ -54,7 +54,7 @@ There are many walks both from the doorstep and nearby. There are lots
 of local activities including swimming, tennis, golf, the thermal
 baths of Uriage, restaurants, etc. etc.
 
-## Distances to nearby places (by car):
+## Distances to nearby places (by car)
 
 * 10 minutes from supermarkets / shops
 * 15 minutes from the Grenoble University Campus
@@ -63,8 +63,8 @@ baths of Uriage, restaurants, etc. etc.
 * 30 minutes from the Synchrotron / ILL research centers
 * 90 minutes from Lyon airport or Geneva airport.
 
-Public transport (pre-booked) is available almost hourly to and from
-the hamlet during the week, but not on weekends.
+Public transport is available almost hourly to and from
+the hamlet Monday-Friday.
 
 Our car is a 5-year-old Citroen Berlingo, which we can arrange to
 exchange if doing a house swap. It's equipped with snow tires in the
