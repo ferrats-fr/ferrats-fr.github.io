@@ -42,79 +42,56 @@ gallery:
 
 {% include toc %}
 
-Si la Corse est une "montagne dans la mer", c'est sans aucun doute le
-Cap Corse, à l'extrémité nord de l'île, qui mérite le mieux cette
-appellation. A l'abri du Mont Stello, qui culmine à 1307 mètres
-d'altitude, ce bras de terre de 40 km de long pour 15 km de large est
-une des régions les plus sauvages et moins peuplée de toute l'île de
-Beauté.
+## Introduction
 
-De Brando à Olmeta di Capicorsu, on dénombre 25 plages dans le
-Cap. Les plages de sable sont concentrées près de notre maison, à
-l'est (Pietracorbara, Cagnano, Tamarone) et au nord (Barcaghju).
+The house is in a mountain hamlet, surrounded by fields and forests,
+and overlooks the Belledonne mountain range, which is one of the most
+unspoiled of the alpine mountain ranges, with nearby skiing and other
+mountain activities (hiking, cycling, cross-country skiing,
+paragliding, ...)
 
-Dans la maison se trouve un livret avec tous nos endroits préférés
-du Cap - les plages, balades, restaurants, magasins et plus, et
-avec de l'information sur chacune des activités ci-dessous... si vous
-louez chez nous, nous pouvons vous envoyer une copie électronique
-pour vous mettre déjà dans l'ambiance!
+There are many walks both from the doorstep and nearby. There are lots
+of local activities including swimming, tennis, golf, the thermal
+baths of Uriage, restaurants, etc. etc.
 
-## Gallerie
+## Distances to nearby places (by car):
 
-Sélectionner une image pour visionner la galerie...
+* 10 minutes from supermarkets / shops
+* 15 minutes from the Grenoble University Campus
+* 20 minutes from the center of Grenoble
+* 20 minutes  from Chamrousse, the nearby ski station
+* 30 minutes from the Synchrotron / ILL research centers
+* 90 minutes from Lyon airport or Geneva airport.
+
+Public transport (pre-booked) is available almost hourly to and from
+the hamlet during the week, but not on weekends.
+
+Our car is a 5-year-old Citroen Berlingo, which we can arrange to
+exchange if doing a house swap. It's equipped with snow tires in the
+winter, and we've got chains “just in case” when going to ski
+stations. The roads around the house are very well cleared of snow in
+the winter, we're not at a high altitude (610m) so only get significant snow
+2 or 3 times in the year - although the snow in the fields and garden
+can last a month or two, the roads are completely clear.
+
+In the house we have many books with walks and other things to
+do in the region, and a booklet we wrote for visitors with our
+favourite local places and things to do / see. 
+
+<!--
+
+## Gallery
 
 {% include base_path %}
 
 {% include gallery %}
 
-## Activités proches
+-->
 
-Toutes les activités sont à moins de 20 minutes de la maison, vous
-pouvez consulter la [carte interactive](#carte-interactive) pour voir
-l'emplacement de certaines d'entre elle.
-
-* De Mer
-  * Plages
-  * Planche à voile
-  * Sorties Bateau
-  * Kayak de mer
-  * Voile
-  * Pêche
-  * Plongée sur épaves, récifs
-  * Jet-Ski
-  * Sentier du douanier
-  * Tours Génoise
-  * La réserve des iles Finocchiarola
-* A Terre
-  * Randonnées
-  * Trous d’eau des rivières
-  * Escalade
-  * Promenades à cheval
-  * Chasse
-  * Tennis
-  * Vélo + VTT
-  * Quad
-  * Parapente
-  * Piscine
-  * Le Moulin Mateii
-  * Le Tour de Sénèque
-* Côté Pratique
-  * Tournées de camion dans l'hameau
-    * Boulangerie
-    * Boucher
-    * Epicerie
-  * A 12 minutes
-    * Supermarché
-    * Pharmacie, Médecin
-    * Poste, Tabac, Garage
-    * Restaurants, Pizzerias, ...
-  * A 40 minutes
-    * Grands commerces à Bastia
- 
-## Carte Interactive
+## Local Map
 
 <div style='position: relative; width: 80%; height: 0px; padding-bottom: 120%;'>
-<iframe style='position: absolute; left: 0px; top: 0px; width: 100%; height: 100%'
-    src="https://www.google.com/maps/d/embed?mid=1il_aDvI5sn3KuWTmbKxdpkflZ14">
+<iframe style='position: absolute; left: 0px; top: 0px; width: 100%; height: 50%'
+src="https://www.google.com/maps/d/u/0/embed?mid=1ZZIJMKaIUID-UTQIY4YKOPQcZ8A">
 </iframe>
 </div>

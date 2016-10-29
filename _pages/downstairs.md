@@ -72,22 +72,24 @@ gallery:
 
 Our mountain home has all modern comforts and is ideal for families,
 approx. 1500 sq. ft (140m2), the main living area being open with an
-american kitchen, large dining area and living room area with home cinema,
-stereo etc.. The kitchen and dining area opens out onto our large
+american kitchen, large dining area and living room with home cinema,
+stereo and a wood-pellet stove. The dining area has huge patio doors
+with a stunning view over the mountains, opening out onto our large
 terrace (60m2 or 600 sq. ft) with gas bbq, hammock, and dining area
 with awning. There is also a bathroom and bedroom on this
 floor.
 
-The basement is 85m2 and has our spare bedroom, workshop,
+The basement is 900 sq. ft (85m2) and has our spare bedroom, workshop,
 laundry and large storage space for skis etc.
 
-Our big garden (2500m2 or 30.000 sq. ft.) opens out on two sides onto
+Our big garden (half an acre or 2300m2) opens out on two sides onto
 fields and forest, with a view across the forest to the Grand Colon
 mountain, part of the Belledonne mountain range. We've got bicycles
 that you can use, plus ping-pong table, large garden chalet which is a
 children's play-house / sleeping area in the summer.
 
-We have a cleaning lady who knows the house well and can come to welcome you, and who can also clean the house for you if desired.
+We have a cleaning lady who knows the house well and can come to
+welcome you, and who can also clean the house for you if desired.
 
 ## Gallery
 
@@ -100,7 +102,7 @@ Please click on a photo to visit:
 ## Detailed Description
 
 * Living room
-  * TV, DVD, stereo, sofas, ...
+  * TV, DVD, stereo, sofas, wood-pellet stove...
 * Kitchen + dining area
   * Kitchen table with room for 8-10
   * Large fridge/ freezer
@@ -125,7 +127,7 @@ Please click on a photo to visit:
   * Large garden with table + chairs
 * Other
   * Children’s games. Books in English and French
-  * Double glazing. Central heating (oil)
+  * Double glazing. Wood-chip stove and central heating (oil) 
   * Internet access
   * No smoking
 

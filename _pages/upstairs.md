@@ -38,10 +38,9 @@ gallery:
 
 {% include toc %}
 
-More photos, this time of the top floor, with large central playroom, master bedroom with dressing room, leading into the bathroom (shower, bath, bidet, 2 sinks), and two other bedrooms.
-This area is typically closed off when we rent the house out when
-we’re in Corsica, but is normally left open when doing a home
-exchange.
+More photos, this time of the top floor, with large central playroom,
+master bedroom with dressing room, bathroom (shower,
+bath, bidet, 2 sinks), separate toilet, and two other bedrooms. 
 
 ## Gallery
 
