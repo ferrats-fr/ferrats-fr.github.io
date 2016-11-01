@@ -78,6 +78,32 @@ In the house we have many books with walks and other things to
 do in the region, and a booklet we wrote for visitors with our
 favourite local places and things to do / see. 
 
+## Skiing
+
+The closest ski station is [http://www.chamrousse.com](Chamrousse),
+approx 20 minutes drive up the mountain. 90km of pistes, from
+beginners slopes to olympic downhill black runs, and plenty of fun in
+the powder between the pistes, there's plenty for everyone. There are
+also over 40km of cross-country pistes, and plenty of back-country
+skiing. VIew their [http://www.chamrousse.com/webcams.html](live
+webcams).
+
+There are numerous other ski stations near by:
+
+* [http://www.les7laux.com/fr/il4-webcams_p50-webcams.aspx](Les 7
+Laux)  - excellent black and off-piste runs - 50 minutes
+* [http://www.les2alpes.com/en](Les Deux Alpes) or
+  [https://www.alpedhuez.com/en](Alpe D'Huez) - excellent large ski
+  stations, with glacier skiing, 90 minutes from home
+* [http://www.les3vallees.com/en/](The Three Valleys) - world's largest
+ski area, 600km of pistes - 2 hours from home
+* [http://www.chamonix.com/chamonix-mont-blanc,0,en.html](Chamonix -
+Mont Blanc) - 2 hours from home
+
+... and many more smaller ski stations near by
+
+
+
 <!--
 
 ## Gallery
