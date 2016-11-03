@@ -11,13 +11,21 @@ header_text: Directions
 
 ## Airports
 
-* 60 minutes fro Grenoble Airport (GNB) with cheap winter flights from
-many airports in the UK
-* 90 minutes from Lyon Airport (LYS) with year-round flights
-* 2 hours from Geneva Airport (GVA) with year-round easy-jet flights from
+* 60 minutes from Grenoble Airport (GNB) with cheap winter flights from
+many airports in the UK and regular bus shuttle service
+* 80 minutes drive from Lyon Airport (LYS) with year-round flights and
+  regular bus shuttle service
+* 100 minutes drive from Geneva Airport (GVA) with year-round easy-jet flights from
 many airports in the UK
 
-## Public Transport
+## Getting around Grenoble
+
+There is an excellent tram and bus service throughout Grenoble, and
+also a city-bike rental system. There are park-and-ride car-parks on
+the edge of town (nearest one to us is in Gieres) or you can drive
+into town which is just over 20 minutes from the house.
+
+## Public transport to/from our hamlet
 
 The
 [G70](http://www.tougo.fr/Pratique/Plans-et-horaires/Lignes-urbaines-et-Citadines/G70-Saint-Martin-d-Uriage-Gieres)
