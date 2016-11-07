@@ -70,23 +70,23 @@ gallery:
 
 {% include toc %}
 
-Our mountain home has all modern comforts and is ideal for families,
-approx. 1500 sq. ft (140m2), the main living area being open with an
-american kitchen, large dining area and living room with home cinema,
-stereo and a wood-pellet stove. The dining area has huge patio doors
-with a stunning view over the mountains, opening out onto our large
-terrace (60m2 or 600 sq. ft) with gas bbq, hammock, and dining area
-with awning. There is also a bathroom and bedroom on this
-floor.
+Our large mountain home has all modern comforts and is ideal for
+families, the main living area being open with an american kitchen,
+large dining area and living room with home cinema, stereo and a
+wood-pellet stove. The dining area has huge patio doors with a
+stunning view over the mountains, opening out onto our large terrace
+with gas bbq, hammock, and dining area with awning. There is also a
+bathroom and bedroom on this floor.
 
 The basement is 900 sq. ft (85m2) and has our spare bedroom, workshop,
 laundry and large storage space for skis etc.
 
 Our big garden (half an acre or 2300m2) opens out on two sides onto
 fields and forest, with a view across the forest to the Grand Colon
-mountain, part of the Belledonne mountain range. We've got bicycles
-that you can use, plus ping-pong table, large garden chalet which is a
-children's play-house / sleeping area in the summer.
+mountain, part of the Belledonne mountain range. We've got plenty of
+toys and board games, bicycles that you can use, plus ping-pong table,
+large garden chalet which is a children's play-house / sleeping area
+in the summer.
 
 We have a cleaning lady who knows the house well and can come to
 welcome you, and who can also clean the house for you if desired.
@@ -105,6 +105,7 @@ Please click on a photo to visit:
   * TV, DVD, stereo, sofas, wood-pellet stove...
 * Kitchen + dining area
   * Kitchen table with room for 8-10
+  * Outstanding view over the forest to the Grand Colon mountain
   * Large fridge/ freezer
   * Dishwasher
   * Oven, gas hobs, microwave
@@ -118,7 +119,6 @@ Please click on a photo to visit:
 * Terrace
   * BBQ
   * Dining table seats 10-12
-  * Outstanding view over the forest to the Grand Colon mountain
   * Large awning for shade
 * Utility Room (in basement)
   * Washing machine, washing line
