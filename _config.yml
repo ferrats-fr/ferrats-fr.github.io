@@ -10,8 +10,8 @@ locale                   : "en"
 title                    : "Les Ferrats"
 title_separator          : "-"
 name                     : "Nick Stephen"
-description              : "Our Home in the Alps"
-url                      : http://en.ferrats.albore.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Aux Ferrats"
+url                      : http://ferrats.albore.fr # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   name             : "Nick Stephen"
   avatar           : 
   bio              : ""
-  location         : "The french alps"
+  location         : "Les Alpes Francaises"
   email            :
   uri              :
   bitbucket        :

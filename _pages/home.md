@@ -6,33 +6,37 @@ date:
 header:
   overlay_color: "#5e616c"
   overlay_image: front/belledonne.jpg
-  cta_label: "<i class='fa fa-language'></i>Français"
-  cta_url: "http://ferrats.albore.fr"
+  cta_label: "<i class='fa fa-language'></i>Anglais"
+  cta_url: "http://en.ferrats.albore.fr"
   caption:
-excerpt: 'Welcome to our home in Les Ferrats, a house in the mountains
-with massive garden looking out over the forest to the Belledonne
-mountain range, 20 minutes from skiing, and 30 minutes from Grenoble'
+excerpt: 'Bienvenu chez les Stephens aux Ferrats, un villa touts
+comforts dans les montagnes avec enorme jardin avec une vue qui coup
+le souffle sur la chaine de Belledonne et le Grand Colon - 20 minutes
+de la station de ski de Chamrousse, et 25 minutes de Grenoble.'
 
 feature_row:
   - image_path: front/downstairs.jpg
-    alt: "living room"
-    title: "Our Home"
-    excerpt: "Our home has plenty of room for between 4 and 7 people
-    and is 20 minutes from Chamrousse ski station"
+    alt: "salon"
+    title: "Chez Nous"
+    excerpt: "Notre maison a de la place pour entre 4 et 7 personnes
+    et se situe a 20 minutes de Chamrousse"
     url: "/downstairs/"
-    btn_label: "Visit our home"
+    btn_label: "Visiter notre maison"
   - image_path: front/upstairs.jpg
-    alt: "upstairs"
-    title: "Upstairs"
-    excerpt: "The upstairs part of our home is available when we do home exchanges"
+    alt: "l'étage"
+    title: "L'Étage"
+    excerpt: "L'étage de notre maison est ouvert quand nous faison des
+    échanges de maison"
     url: "/upstairs/"
-    btn_label: "Visit upstairs"
+    btn_label: "Visiter l'étage"
   - image_path: front/belledonne.jpg
-    alt: "the region"
-    title: "The Region"
-    excerpt: "The Belledonne mountain range is noted for the spectacular scenery, numerous ski areas, interesting geology, and a diverse range of alpine land types"
+    alt: "la région"
+    title: "La Région"
+    excerpt: "La chaine de Belledonne est reputée pour des nombreuse
+    zones de ski, pour ses impressionantes vistas, sa geologie
+    interessante, et sa nature sauvage"
     url: "/region/"
-    btn_label: "Visit the Region"
+    btn_label: "Visiter la région"
 ---
 
 {% include feature_row id="intro" type="center" %}

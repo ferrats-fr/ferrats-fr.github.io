@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "fr"
 title                    : "Les Ferrats"
 title_separator          : "-"
 name                     : "Nick Stephen"
-description              : "Our Home"
+description              : "Aux Ferrats"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -76,7 +76,7 @@ author:
   name             : "Nick Stephen"
   avatar           : "passport.gif"
   bio              : ""
-  location         : "The french alps"
+  location         : "Les Alpes Francaises"
   email            :
   uri              :
   bitbucket        :

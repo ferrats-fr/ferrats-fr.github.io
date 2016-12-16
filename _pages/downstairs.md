@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Our Home
+title: La Maison
 permalink: /downstairs/
 type: info
-header_text: Our Home
+header_text: La Maison
 gallery:
   - url: downstairs/web/0.jpg
     image_path: downstairs/th/0.jpg
@@ -88,7 +88,7 @@ toys and board games, bicycles that you can use, plus ping-pong table,
 large garden chalet which is a children's play-house / sleeping area
 in the summer.
 
-We have a cleaning lady who knows the house well and can come to
+We have a cleaning lady who knows the house well and will come to
 welcome you, and who can also clean the house for you if desired.
 
 ## Gallery
