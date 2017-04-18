@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: front/belledonne.jpg
   cta_label: "<i class='fa fa-language'></i>Anglais"
-  cta_url: "http://en.ferrats.albore.fr"
+  cta_url: "http://fr.ferrats.albore.fr"
   caption:
 excerpt: 'Bienvenu chez les Stephens aux Ferrats, un villa touts
 comforts dans les montagnes avec enorme jardin avec une vue qui coup
