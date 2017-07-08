@@ -1,6 +1,6 @@
 This repository contains the website for our home in Les Ferrats
 
-- http://fr.ferrats.albore.fr
+- http://ferrats.albore.fr
 
 The UI theme is derived from :
 
